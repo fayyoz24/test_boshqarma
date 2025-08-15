@@ -1,0 +1,1748 @@
+{
+    "questions": [
+      {
+        "question": "What _____ you _____ at the weekend?",
+        "options": [
+          {
+            "A": "does / does",
+            "is_correct": false
+          },
+          {
+            "B": "do / does",
+            "is_correct": false
+          },
+          {
+            "C": "does / do",
+            "is_correct": false
+          },
+          {
+            "D": "do / do",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question": "What _____ Dick and Tom like _____?",
+        "options": [
+          {
+            "A": "do / doing",
+            "is_correct": true
+          },
+          {
+            "B": "doing / *",
+            "is_correct": false
+          },
+          {
+            "C": "do / do",
+            "is_correct": false
+          },
+          {
+            "D": "does / doing",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "Do boys like _____ jeans?",
+        "options": [
+          {
+            "A": "wear",
+            "is_correct": false
+          },
+          {
+            "B": "wearing",
+            "is_correct": true
+          },
+          {
+            "C": "to wear",
+            "is_correct": false
+          },
+          {
+            "D": "worn",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "My classmates _____ on picnic every month.",
+        "options": [
+          {
+            "A": "went",
+            "is_correct": false
+          },
+          {
+            "B": "goes",
+            "is_correct": false
+          },
+          {
+            "C": "going",
+            "is_correct": false
+          },
+          {
+            "D": "go",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question": "Mary _____ face every morning.",
+        "options": [
+          {
+            "A": "washes his",
+            "is_correct": false
+          },
+          {
+            "B": "wash my",
+            "is_correct": false
+          },
+          {
+            "C": "washes her",
+            "is_correct": true
+          },
+          {
+            "D": "washes their",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "I _____ a cigarette, but my teacher _____ smoke.",
+        "options": [
+          {
+            "A": "don't / smokes",
+            "is_correct": false
+          },
+          {
+            "B": "smoke / doesn't",
+            "is_correct": true
+          },
+          {
+            "C": "smokes / smokes",
+            "is_correct": false
+          },
+          {
+            "D": "smoke / don't",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "They _____ wash _____ car every day.",
+        "options": [
+          {
+            "A": "don't / my",
+            "is_correct": false
+          },
+          {
+            "B": "don't / his",
+            "is_correct": false
+          },
+          {
+            "C": "don't / their",
+            "is_correct": true
+          },
+          {
+            "D": "don't / our",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "My parents _____ eat meat.",
+        "options": [
+          {
+            "A": "don't",
+            "is_correct": true
+          },
+          {
+            "B": "aren't",
+            "is_correct": false
+          },
+          {
+            "C": "doesn't",
+            "is_correct": false
+          },
+          {
+            "D": "are",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "Summer holidays _____ in June.",
+        "options": [
+          {
+            "A": "begins",
+            "is_correct": false
+          },
+          {
+            "B": "begin",
+            "is_correct": true
+          },
+          {
+            "C": "beginning",
+            "is_correct": false
+          },
+          {
+            "D": "began",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "We _____ tennis on Monday evenings, but my little sister _____ on Sundays.",
+        "options": [
+          {
+            "A": "play / play",
+            "is_correct": false
+          },
+          {
+            "B": "plays / plays",
+            "is_correct": false
+          },
+          {
+            "C": "play / plays",
+            "is_correct": true
+          },
+          {
+            "D": "plays / play",
+            "is_correct": false
+          }
+        ]
+      },
+          {
+            "question": "You _____ a lot of things in _____ free time.",
+            "options": [
+              {
+                "A": "do / our",
+                "is_correct": false
+              },
+              {
+                "B": "does / your",
+                "is_correct": false
+              },
+              {
+                "C": "do / my",
+                "is_correct": false
+              },
+              {
+                "D": "do / your",
+                "is_correct": true
+              }
+            ]
+          },
+          {
+            "question": "My cat licks _____ tail every evening. But my dogs never lick _____ tails.",
+            "options": [
+              {
+                "A": "its / their",
+                "is_correct": true
+              },
+              {
+                "B": "its / its",
+                "is_correct": false
+              },
+              {
+                "C": "their / its",
+                "is_correct": false
+              },
+              {
+                "D": "* / -",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "question": "I like _____ football, but my brother doesn't.",
+            "options": [
+              {
+                "A": "play",
+                "is_correct": false
+              },
+              {
+                "B": "played",
+                "is_correct": false
+              },
+              {
+                "C": "playing",
+                "is_correct": true
+              },
+              {
+                "D": "plays",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "question": "She likes _____ TV, but her husband doesn't.",
+            "options": [
+              {
+                "A": "watching",
+                "is_correct": true
+              },
+              {
+                "B": "to watch",
+                "is_correct": false
+              },
+              {
+                "C": "watches",
+                "is_correct": false
+              },
+              {
+                "D": "watched",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "question": "Her sister doesn't _____ eating a hamburger.",
+            "options": [
+              {
+                "A": "like",
+                "is_correct": true
+              },
+              {
+                "B": "likes",
+                "is_correct": false
+              },
+              {
+                "C": "liking",
+                "is_correct": false
+              },
+              {
+                "D": "liked",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "question": "Do you like _____ in your free time?",
+            "options": [
+              {
+                "A": "read",
+                "is_correct": false
+              },
+              {
+                "B": "reads",
+                "is_correct": false
+              },
+              {
+                "C": "to read",
+                "is_correct": false
+              },
+              {
+                "D": "reading",
+                "is_correct": true
+              }
+            ]
+          },
+          {
+            "question": "I like _____ but I _____ like swimming.",
+            "options": [
+              {
+                "A": "sailing / don't",
+                "is_correct": true
+              },
+              {
+                "B": "sail / doesn't",
+                "is_correct": false
+              },
+              {
+                "C": "sail / don't",
+                "is_correct": false
+              },
+              {
+                "D": "sail / do",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "question": "Tom _____ her but she doesn't like _____ .",
+            "options": [
+              {
+                "A": "like / her",
+                "is_correct": false
+              },
+              {
+                "B": "likes / him",
+                "is_correct": true
+              },
+              {
+                "C": "likes / he",
+                "is_correct": false
+              },
+              {
+                "D": "like / him",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "question": "Andrew buys a newspaper everyday. _____ reads _____ at home.",
+            "options": [
+              {
+                "A": "It / he",
+                "is_correct": false
+              },
+              {
+                "B": "Him / it",
+                "is_correct": false
+              },
+              {
+                "C": "He / it",
+                "is_correct": true
+              },
+              {
+                "D": "His / it",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "question": "Mike eats cheeseburgers because _____ likes _____ .",
+            "options": [
+              {
+                "A": "he / their",
+                "is_correct": false
+              },
+              {
+                "B": "him / they",
+                "is_correct": false
+              },
+              {
+                "C": "he / them",
+                "is_correct": true
+              },
+              {
+                "D": "him / them",
+                "is_correct": false
+              }
+            ]
+          },
+
+              {
+                "question": "\"What time is it?\" \"3:45\"",
+                "options": [
+                  {
+                    "A": "It is quarter past three.",
+                    "is_correct": false
+                  },
+                  {
+                    "B": "It is fifteen past four.",
+                    "is_correct": false
+                  },
+                  {
+                    "C": "It is quarter to four.",
+                    "is_correct": true
+                  },
+                  {
+                    "D": "It is fifteen to four.",
+                    "is_correct": false
+                  }
+                ]
+              },
+              {
+                "question": "It is half past eight.",
+                "options": [
+                  {
+                    "A": "8:30",
+                    "is_correct": true
+                  },
+                  {
+                    "B": "7:30",
+                    "is_correct": false
+                  },
+                  {
+                    "C": "18:30",
+                    "is_correct": false
+                  },
+                  {
+                    "D": "17:30",
+                    "is_correct": false
+                  }
+                ]
+              },
+              {
+                "question": "It is quarter past eight.",
+                "options": [
+                  {
+                    "A": "8:30",
+                    "is_correct": false
+                  },
+                  {
+                    "B": "7:30",
+                    "is_correct": false
+                  },
+                  {
+                    "C": "8:15",
+                    "is_correct": true
+                  },
+                  {
+                    "D": "17:15",
+                    "is_correct": false
+                  }
+                ]
+              },
+              {
+                "question": "It is five to nine.",
+                "options": [
+                  {
+                    "A": "9:55",
+                    "is_correct": false
+                  },
+                  {
+                    "B": "9:35",
+                    "is_correct": false
+                  },
+                  {
+                    "C": "8:55",
+                    "is_correct": true
+                  },
+                  {
+                    "D": "9:05",
+                    "is_correct": false
+                  }
+                ]
+              },
+              {
+                "question": "It is five past nine.",
+                "options": [
+                  {
+                    "A": "9:55",
+                    "is_correct": false
+                  },
+                  {
+                    "B": "9:35",
+                    "is_correct": false
+                  },
+                  {
+                    "C": "8:55",
+                    "is_correct": false
+                  },
+                  {
+                    "D": "9:05",
+                    "is_correct": true
+                  }
+                ]
+              },
+              {
+                "question": "A friend of mine likes _____ on picnic at weekends.",
+                "options": [
+                  {
+                    "A": "to go",
+                    "is_correct": false
+                  },
+                  {
+                    "B": "going",
+                    "is_correct": true
+                  },
+                  {
+                    "C": "goes",
+                    "is_correct": false
+                  },
+                  {
+                    "D": "go",
+                    "is_correct": false
+                  }
+                ]
+              },
+              {
+                "question": "I _____ my teeth every morning.",
+                "options": [
+                  {
+                    "A": "brushing",
+                    "is_correct": false
+                  },
+                  {
+                    "B": "brush",
+                    "is_correct": true
+                  },
+                  {
+                    "C": "brushes",
+                    "is_correct": false
+                  },
+                  {
+                    "D": "to brush",
+                    "is_correct": false
+                  }
+                ]
+              },
+              {
+                "question": "_____ Kate live near Jane?",
+                "options": [
+                  {
+                    "A": "Is",
+                    "is_correct": false
+                  },
+                  {
+                    "B": "Are",
+                    "is_correct": false
+                  },
+                  {
+                    "C": "Do",
+                    "is_correct": false
+                  },
+                  {
+                    "D": "Does",
+                    "is_correct": true
+                  }
+                ]
+              },
+              {
+                "question": "His father _____ , but Bill's father _____ smoke.",
+                "options": [
+                  {
+                    "A": "smokes / don't",
+                    "is_correct": false
+                  },
+                  {
+                    "B": "smokes / doesn't",
+                    "is_correct": true
+                  },
+                  {
+                    "C": "smoke / don't",
+                    "is_correct": false
+                  },
+                  {
+                    "D": "smokes / isn't",
+                    "is_correct": false
+                  }
+                ]
+              },
+              {
+                "question": "My father _____ driving.",
+                "options": [
+                  {
+                    "A": "doesn't likes",
+                    "is_correct": false
+                  },
+                  {
+                    "B": "don't likes",
+                    "is_correct": false
+                  },
+                  {
+                    "C": "doesn't like",
+                    "is_correct": true
+                  },
+                  {
+                    "D": "don't like",
+                    "is_correct": false
+                  }
+                ]
+              },
+                  {
+                    "question": "\"What time is it?\" \"3:45\"",
+                    "options": [
+                      {
+                        "A": "It is quarter past three.",
+                        "is_correct": false
+                      },
+                      {
+                        "B": "It is fifteen past four.",
+                        "is_correct": false
+                      },
+                      {
+                        "C": "It is quarter to four.",
+                        "is_correct": true
+                      },
+                      {
+                        "D": "It is fifteen to four.",
+                        "is_correct": false
+                      }
+                    ]
+                  },
+                  {
+                    "question": "It is half past eight.",
+                    "options": [
+                      {
+                        "A": "8:30",
+                        "is_correct": true
+                      },
+                      {
+                        "B": "7:30",
+                        "is_correct": false
+                      },
+                      {
+                        "C": "18:30",
+                        "is_correct": false
+                      },
+                      {
+                        "D": "17:30",
+                        "is_correct": false
+                      }
+                    ]
+                  },
+                  {
+                    "question": "It is quarter past eight.",
+                    "options": [
+                      {
+                        "A": "8:30",
+                        "is_correct": false
+                      },
+                      {
+                        "B": "7:30",
+                        "is_correct": false
+                      },
+                      {
+                        "C": "8:15",
+                        "is_correct": true
+                      },
+                      {
+                        "D": "17:15",
+                        "is_correct": false
+                      }
+                    ]
+                  },
+                  {
+                    "question": "It is five to nine.",
+                    "options": [
+                      {
+                        "A": "9:55",
+                        "is_correct": false
+                      },
+                      {
+                        "B": "9:35",
+                        "is_correct": false
+                      },
+                      {
+                        "C": "8:55",
+                        "is_correct": true
+                      },
+                      {
+                        "D": "9:05",
+                        "is_correct": false
+                      }
+                    ]
+                  },
+                  {
+                    "question": "It is five past nine.",
+                    "options": [
+                      {
+                        "A": "9:55",
+                        "is_correct": false
+                      },
+                      {
+                        "B": "9:35",
+                        "is_correct": false
+                      },
+                      {
+                        "C": "8:55",
+                        "is_correct": false
+                      },
+                      {
+                        "D": "9:05",
+                        "is_correct": true
+                      }
+                    ]
+                  },
+                  {
+                    "question": "A friend of mine likes _____ on picnic at weekends.",
+                    "options": [
+                      {
+                        "A": "to go",
+                        "is_correct": false
+                      },
+                      {
+                        "B": "going",
+                        "is_correct": true
+                      },
+                      {
+                        "C": "goes",
+                        "is_correct": false
+                      },
+                      {
+                        "D": "go",
+                        "is_correct": false
+                      }
+                    ]
+                  },
+                  {
+                    "question": "I _____ my teeth every morning.",
+                    "options": [
+                      {
+                        "A": "brushing",
+                        "is_correct": false
+                      },
+                      {
+                        "B": "brush",
+                        "is_correct": true
+                      },
+                      {
+                        "C": "brushes",
+                        "is_correct": false
+                      },
+                      {
+                        "D": "to brush",
+                        "is_correct": false
+                      }
+                    ]
+                  },
+                  {
+                    "question": "_____ Kate live near Jane?",
+                    "options": [
+                      {
+                        "A": "Is",
+                        "is_correct": false
+                      },
+                      {
+                        "B": "Are",
+                        "is_correct": false
+                      },
+                      {
+                        "C": "Do",
+                        "is_correct": false
+                      },
+                      {
+                        "D": "Does",
+                        "is_correct": true
+                      }
+                    ]
+                  },
+                  {
+                    "question": "His father _____ , but Bill's father _____ smoke.",
+                    "options": [
+                      {
+                        "A": "smokes / don't",
+                        "is_correct": false
+                      },
+                      {
+                        "B": "smokes / doesn't",
+                        "is_correct": true
+                      },
+                      {
+                        "C": "smoke / don't",
+                        "is_correct": false
+                      },
+                      {
+                        "D": "smokes / isn't",
+                        "is_correct": false
+                      }
+                    ]
+                  },
+                  {
+                    "question": "My father _____ driving.",
+                    "options": [
+                      {
+                        "A": "doesn't likes",
+                        "is_correct": false
+                      },
+                      {
+                        "B": "don't likes",
+                        "is_correct": false
+                      },
+                      {
+                        "C": "doesn't like",
+                        "is_correct": true
+                      },
+                      {
+                        "D": "don't like",
+                        "is_correct": false
+                      }
+                    ]
+                  },
+        {
+        "question": "A: Do you _____ Afghani? B: No, _____ .",
+        "options": [
+            {
+            "A": "speak / you don't",
+            "is_correct": false
+            },
+            {
+            "B": "speak / I don't",
+            "is_correct": true
+            },
+            {
+            "C": "speak / don't I",
+            "is_correct": false
+            },
+            {
+            "D": "speaks / don't speak",
+            "is_correct": false
+            }
+        ]
+        },
+        {
+        "question": "A: _____ does Margaret start work? B: At 7 in the morning.",
+        "options": [
+            {
+            "A": "What time",
+            "is_correct": true
+            },
+            {
+            "B": "What kind",
+            "is_correct": false
+            },
+            {
+            "C": "What sort",
+            "is_correct": false
+            },
+            {
+            "D": "What about",
+            "is_correct": false
+            }
+        ]
+        },
+        {
+        "question": "A: _____ do your brothers like working in this factory? B: Because they earn much money.",
+        "options": [
+            {
+            "A": "What",
+            "is_correct": false
+            },
+            {
+            "B": "When",
+            "is_correct": false
+            },
+            {
+            "C": "Why",
+            "is_correct": true
+            },
+            {
+            "D": "Whom",
+            "is_correct": false
+            }
+        ]
+        },
+        {
+        "question": "_____ he like his job?",
+        "options": [
+            {
+            "A": "Does",
+            "is_correct": true
+            },
+            {
+            "B": "Do",
+            "is_correct": false
+            },
+            {
+            "C": "Is",
+            "is_correct": false
+            },
+            {
+            "D": "Are",
+            "is_correct": false
+            }
+        ]
+        },
+        {
+        "question": "I _____ an accountant.",
+        "options": [
+            {
+            "A": "do",
+            "is_correct": false
+            },
+            {
+            "B": "does",
+            "is_correct": false
+            },
+            {
+            "C": "am",
+            "is_correct": true
+            },
+            {
+            "D": "is",
+            "is_correct": false
+            }
+        ]
+        },
+        {
+        "question": "_____ New York exciting?",
+        "options": [
+            {
+            "A": "Are",
+            "is_correct": false
+            },
+            {
+            "B": "Do",
+            "is_correct": false
+            },
+            {
+            "C": "Does",
+            "is_correct": false
+            },
+            {
+            "D": "Is",
+            "is_correct": true
+            }
+        ]
+        },
+        {
+        "question": "Where _____ they live?",
+        "options": [
+            {
+            "A": "are",
+            "is_correct": false
+            },
+            {
+            "B": "do",
+            "is_correct": true
+            },
+            {
+            "C": "does",
+            "is_correct": false
+            },
+            {
+            "D": "is",
+            "is_correct": false
+            }
+        ]
+        },
+        {
+        "question": "Why _____ you want to learn English?",
+        "options": [
+            {
+            "A": "do",
+            "is_correct": true
+            },
+            {
+            "B": "are",
+            "is_correct": false
+            },
+            {
+            "C": "*",
+            "is_correct": false
+            },
+            {
+            "D": "is",
+            "is_correct": false
+            }
+        ]
+        },
+        {
+        "question": "We _____ Algerians.",
+        "options": [
+            {
+            "A": "does",
+            "is_correct": false
+            },
+            {
+            "B": "are",
+            "is_correct": true
+            },
+            {
+            "C": "do",
+            "is_correct": false
+            },
+            {
+            "D": "am",
+            "is_correct": false
+            }
+        ]
+        },
+        {
+        "question": "What _____ he do at weekends?",
+        "options": [
+            {
+            "A": "do",
+            "is_correct": false
+            },
+            {
+            "B": "is",
+            "is_correct": false
+            },
+            {
+            "C": "does",
+            "is_correct": true
+            },
+            {
+            "D": "are",
+            "is_correct": false
+            }
+        ]
+        },
+        {
+        "question": "He plays football _____ Friday mornings.",
+        "options": [
+            {
+            "A": "in",
+            "is_correct": false
+            },
+            {
+            "B": "on",
+            "is_correct": true
+            },
+            {
+            "C": "at",
+            "is_correct": false
+            },
+            {
+            "D": "of",
+            "is_correct": false
+            }
+        ]
+        },
+        {
+        "question": "Do you relax _____ weekends?",
+        "options": [
+            {
+            "A": "at",
+            "is_correct": true
+            },
+            {
+            "B": "on",
+            "is_correct": false
+            },
+            {
+            "C": "in",
+            "is_correct": false
+            },
+            {
+            "D": "by",
+            "is_correct": false
+            }
+        ]
+        },
+        {
+        "question": "Where do you go _____ holiday?",
+        "options": [
+            {
+            "A": "at",
+            "is_correct": false
+            },
+            {
+            "B": "in",
+            "is_correct": false
+            },
+            {
+            "C": "of",
+            "is_correct": false
+            },
+            {
+            "D": "on",
+            "is_correct": true
+            }
+        ]
+        },
+        {
+        "question": "I like _____ .",
+        "options": [
+            {
+            "A": "cooks",
+            "is_correct": false
+            },
+            {
+            "B": "cooking",
+            "is_correct": true
+            },
+            {
+            "C": "cook",
+            "is_correct": false
+            },
+            {
+            "D": "cooked",
+            "is_correct": false
+            }
+        ]
+        },
+        {
+        "question": "She gets up early _____ the morning.",
+        "options": [
+            {
+            "A": "on",
+            "is_correct": false
+            },
+            {
+            "B": "in",
+            "is_correct": true
+            },
+            {
+            "C": "at",
+            "is_correct": false
+            },
+            {
+            "D": "by",
+            "is_correct": false
+            }
+        ]
+        },
+        {
+        "question": "She gets up early _____ the weekdays.",
+        "options": [
+            {
+            "A": "at",
+            "is_correct": false
+            },
+            {
+            "B": "of",
+            "is_correct": false
+            },
+            {
+            "C": "on",
+            "is_correct": true
+            },
+            {
+            "D": "in",
+            "is_correct": false
+            }
+        ]
+        },
+        {
+        "question": "He takes photos only _____ spring.",
+        "options": [
+            {
+            "A": "in",
+            "is_correct": true
+            },
+            {
+            "B": "at",
+            "is_correct": false
+            },
+            {
+            "C": "on",
+            "is_correct": false
+            },
+            {
+            "D": "by",
+            "is_correct": false
+            }
+        ]
+        },
+        {
+        "question": "He hates _____ football _____ television.",
+        "options": [
+            {
+            "A": "watching / on",
+            "is_correct": true
+            },
+            {
+            "B": "to watch / in",
+            "is_correct": false
+            },
+            {
+            "C": "watch / on",
+            "is_correct": false
+            },
+            {
+            "D": "watching / in",
+            "is_correct": false
+            }
+        ]
+        },
+        {
+        "question": "They like _____ very much.",
+        "options": [
+            {
+            "A": "sail",
+            "is_correct": false
+            },
+            {
+            "B": "sailed",
+            "is_correct": false
+            },
+            {
+            "C": "sailing",
+            "is_correct": true
+            },
+            {
+            "D": "sail",
+            "is_correct": false
+            }
+        ]
+        },
+              {
+                "question": "My brother's birthday is _____ March.",
+                "options": [
+                  {
+                    "A": "in",
+                    "is_correct": true
+                  },
+                  {
+                    "B": "on",
+                    "is_correct": false
+                  },
+                  {
+                    "C": "at",
+                    "is_correct": false
+                  },
+                  {
+                    "D": "to",
+                    "is_correct": false
+                  }
+                ]
+              },
+              {
+                "question": "The train leaves Paris _____ 4 p.m.",
+                "options": [
+                  {
+                    "A": "in",
+                    "is_correct": false
+                  },
+                  {
+                    "B": "at",
+                    "is_correct": true
+                  },
+                  {
+                    "C": "on",
+                    "is_correct": false
+                  },
+                  {
+                    "D": "by",
+                    "is_correct": false
+                  }
+                ]
+              },
+              {
+                "question": "Vancouver is very cold _____ winter.",
+                "options": [
+                  {
+                    "A": "at",
+                    "is_correct": false
+                  },
+                  {
+                    "B": "in",
+                    "is_correct": true
+                  },
+                  {
+                    "C": "on",
+                    "is_correct": false
+                  },
+                  {
+                    "D": "to",
+                    "is_correct": false
+                  }
+                ]
+              },
+              {
+                "question": "Sometimes we _____ cards.",
+                "options": [
+                  {
+                    "A": "plays",
+                    "is_correct": false
+                  },
+                  {
+                    "B": "playing",
+                    "is_correct": false
+                  },
+                  {
+                    "C": "play",
+                    "is_correct": true
+                  },
+                  {
+                    "D": "to play",
+                    "is_correct": false
+                  }
+                ]
+              },
+              {
+                "question": "She never _____ meat.",
+                "options": [
+                  {
+                    "A": "eats",
+                    "is_correct": true
+                  },
+                  {
+                    "B": "eating",
+                    "is_correct": false
+                  },
+                  {
+                    "C": "eat",
+                    "is_correct": false
+                  },
+                  {
+                    "D": "to eat",
+                    "is_correct": false
+                  }
+                ]
+              },
+              {
+                "question": "We always _____ lemonade in the evenings.",
+                "options": [
+                  {
+                    "A": "to drink",
+                    "is_correct": false
+                  },
+                  {
+                    "B": "has",
+                    "is_correct": false
+                  },
+                  {
+                    "C": "drinking",
+                    "is_correct": false
+                  },
+                  {
+                    "D": "have",
+                    "is_correct": true
+                  }
+                ]
+              },
+              {
+                "question": "A: I'm sorry. I'm late. B: _____ Come and sit down.",
+                "options": [
+                  {
+                    "A": "Excuse me!",
+                    "is_correct": false
+                  },
+                  {
+                    "B": "Don't worry!",
+                    "is_correct": true
+                  },
+                  {
+                    "C": "What's the matter?",
+                    "is_correct": false
+                  },
+                  {
+                    "D": "Why are you late?",
+                    "is_correct": false
+                  }
+                ]
+              },
+              {
+                "question": "A- _____ your wife _____ English? B- Yes, she does.",
+                "options": [
+                  {
+                    "A": "Do / speak",
+                    "is_correct": false
+                  },
+                  {
+                    "B": "Does / speaking",
+                    "is_correct": false
+                  },
+                  {
+                    "C": "Does / speak",
+                    "is_correct": true
+                  },
+                  {
+                    "D": "Do / speaking",
+                    "is_correct": false
+                  }
+                ]
+              },
+              {
+                "question": "\"How many languages _____ you _____ ?\" \"Three: English, German and Spanish.\"",
+                "options": [
+                  {
+                    "A": "does / speak",
+                    "is_correct": false
+                  },
+                  {
+                    "B": "do / speak",
+                    "is_correct": true
+                  },
+                  {
+                    "C": "do / speaking",
+                    "is_correct": false
+                  },
+                  {
+                    "D": "does / speaking",
+                    "is_correct": false
+                  }
+                ]
+              },
+              {
+                "question": "Why _____ you like _____ in the hotel?",
+                "options": [
+                  {
+                    "A": "do / working",
+                    "is_correct": true
+                  },
+                  {
+                    "B": "do / work",
+                    "is_correct": false
+                  },
+                  {
+                    "C": "does / working",
+                    "is_correct": false
+                  },
+                  {
+                    "D": "does / work",
+                    "is_correct": false
+                  }
+                ]
+              },
+              {
+                "question": "They never go out _____ Friday evenings.",
+                "options": [
+                  {
+                    "A": "on",
+                    "is_correct": true
+                  },
+                  {
+                    "B": "in",
+                    "is_correct": false
+                  },
+                  {
+                    "C": "at",
+                    "is_correct": false
+                  },
+                  {
+                    "D": "by",
+                    "is_correct": false
+                  }
+                ]
+              },
+              {
+                "question": "She loves _____ to music.",
+                "options": [
+                  {
+                    "A": "listening",
+                    "is_correct": true
+                  },
+                  {
+                    "B": "to listen",
+                    "is_correct": false
+                  },
+                  {
+                    "C": "listens",
+                    "is_correct": false
+                  },
+                  {
+                    "D": "listen",
+                    "is_correct": false
+                  }
+                ]
+              },
+                  {
+                    "question": "They often eat in a restaurant ___ Tuesdays.",
+                    "options": [
+                      {
+                        "A": "on",
+                        "is_correct": true
+                      },
+                      {
+                        "B": "in",
+                        "is_correct": false
+                      },
+                      {
+                        "C": "of",
+                        "is_correct": false
+                      },
+                      {
+                        "D": "at",
+                        "is_correct": false
+                      }
+                    ]
+                  },
+                  {
+                    "question": "_____ summer I play tennis _____ Sundays.",
+                    "options": [
+                      {
+                        "A": "In / in",
+                        "is_correct": false
+                      },
+                      {
+                        "B": "At / on",
+                        "is_correct": false
+                      },
+                      {
+                        "C": "In / on",
+                        "is_correct": true
+                      },
+                      {
+                        "D": "At / in",
+                        "is_correct": false
+                      }
+                    ]
+                  },
+                  {
+                    "question": "\"Do Mr. Adams and his daughter like going _____ ?\" \"No, they _____ .\"",
+                    "options": [
+                      {
+                        "A": "ski / don't",
+                        "is_correct": false
+                      },
+                      {
+                        "B": "skiing / don't",
+                        "is_correct": true
+                      },
+                      {
+                        "C": "skiing / do",
+                        "is_correct": false
+                      },
+                      {
+                        "D": "ski / does",
+                        "is_correct": false
+                      }
+                    ]
+                  },
+                  {
+                    "question": "\"_____ they _____ a winter holiday?\" \"Yes, they do.\"",
+                    "options": [
+                      {
+                        "A": "Do / wanting",
+                        "is_correct": false
+                      },
+                      {
+                        "B": "Does / want",
+                        "is_correct": false
+                      },
+                      {
+                        "C": "Do / want",
+                        "is_correct": true
+                      },
+                      {
+                        "D": "Does / wanting",
+                        "is_correct": false
+                      }
+                    ]
+                  },
+                  {
+                    "question": "What time ____ you go to bed?",
+                    "options": [
+                      {
+                        "A": "do",
+                        "is_correct": true
+                      },
+                      {
+                        "B": "does",
+                        "is_correct": false
+                      },
+                      {
+                        "C": "is",
+                        "is_correct": false
+                      },
+                      {
+                        "D": "have",
+                        "is_correct": false
+                      }
+                    ]
+                  },
+                  {
+                    "question": "\"_____ do you do your homework?\" \"After dinner.\"",
+                    "options": [
+                      {
+                        "A": "Where",
+                        "is_correct": false
+                      },
+                      {
+                        "B": "What",
+                        "is_correct": false
+                      },
+                      {
+                        "C": "How",
+                        "is_correct": false
+                      },
+                      {
+                        "D": "When",
+                        "is_correct": true
+                      }
+                    ]
+                  },
+                  {
+                    "question": "\"_____ you go out on Friday evenings?\" \"Yes, I do sometimes.\"",
+                    "options": [
+                      {
+                        "A": "Do",
+                        "is_correct": true
+                      },
+                      {
+                        "B": "Where",
+                        "is_correct": false
+                      },
+                      {
+                        "C": "Are",
+                        "is_correct": false
+                      },
+                      {
+                        "D": "Does",
+                        "is_correct": false
+                      }
+                    ]
+                  },
+                  {
+                    "question": "\"_____ do you like your job?\" \"Because it's interesting.\"",
+                    "options": [
+                      {
+                        "A": "Why",
+                        "is_correct": true
+                      },
+                      {
+                        "B": "What",
+                        "is_correct": false
+                      },
+                      {
+                        "C": "How",
+                        "is_correct": false
+                      },
+                      {
+                        "D": "Where",
+                        "is_correct": false
+                      }
+                    ]
+                  },
+                  {
+                    "question": "\"_____ do you travel to school?\" \"By bus.\"",
+                    "options": [
+                      {
+                        "A": "How",
+                        "is_correct": true
+                      },
+                      {
+                        "B": "What",
+                        "is_correct": false
+                      },
+                      {
+                        "C": "Why",
+                        "is_correct": false
+                      },
+                      {
+                        "D": "Where",
+                        "is_correct": false
+                      }
+                    ]
+                  },
+                  {
+                    "question": "\"____ ____ you live with?\" \"With my mother and sisters.\"",
+                    "options": [
+                      {
+                        "A": "What / do",
+                        "is_correct": false
+                      },
+                      {
+                        "B": "Who / do",
+                        "is_correct": true
+                      },
+                      {
+                        "C": "Where / does",
+                        "is_correct": false
+                      },
+                      {
+                        "D": "Who / does",
+                        "is_correct": false
+                      }
+                    ]
+                  },
+                  {
+                    "question": "\"_____ do you _____ on Sundays?\" \"I always relax.\"",
+                    "options": [
+                      {
+                        "A": "How / doing",
+                        "is_correct": false
+                      },
+                      {
+                        "B": "What / do",
+                        "is_correct": true
+                      },
+                      {
+                        "C": "Where / does",
+                        "is_correct": false
+                      },
+                      {
+                        "D": "What / relax",
+                        "is_correct": false
+                      }
+                    ]
+                  },
+                  {
+                    "question": "\"_____ do you _____ on holiday?\" \"To Rome or Paris.\"",
+                    "options": [
+                      {
+                        "A": "Where / like",
+                        "is_correct": false
+                      },
+                      {
+                        "B": "How / relax",
+                        "is_correct": false
+                      },
+                      {
+                        "C": "Where / go",
+                        "is_correct": true
+                      },
+                      {
+                        "D": "Why / go",
+                        "is_correct": false
+                      }
+                    ]
+                  }    
+    ]
+  }

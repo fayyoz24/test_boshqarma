@@ -1,0 +1,576 @@
+{
+    "questions": [
+      {
+        "question": "40 va 60 sonlarining EKUBini aniqlang",
+        "image": null,
+        "options": [
+          {
+            "A": "10",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "B": "20",
+            "image": null,
+            "is_correct": true
+          },
+          {
+            "C": "30",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "D": "40",
+            "image": null,
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "$A = a^{2} \\bullet b^{3} \\bullet c$ va $B = a \\bullet b^{2} \\bullet d$ sonlari uchun $EKUB(A;B)$ ning qiymatini toping",
+        "image": null,
+        "options": [
+          {
+            "A": "$ab$",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "B": "$a^{2}b$",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "C": "$ab^{2}$",
+            "image": null,
+            "is_correct": true
+          },
+          {
+            "D": "$a$",
+            "image": null,
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "$EKUB(42;48)$",
+        "image": null,
+        "options": [
+          {
+            "A": "2",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "B": "3",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "C": "6",
+            "image": null,
+            "is_correct": true
+          },
+          {
+            "D": "8",
+            "image": null,
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "$EKUB(24;36;48)$",
+        "image": null,
+        "options": [
+          {
+            "A": "6",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "B": "8",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "C": "9",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "D": "12",
+            "image": null,
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question": "$A = a^{3} \\bullet b^{2} \\bullet c^{5}$ va $B = a^{2} \\bullet b^{4} \\bullet d^{3}$ sonlar uchun $EKUB(A;B)$ ning qiymatini toping",
+        "image": null,
+        "options": [
+          {
+            "A": "$ab$",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "B": "$a^{2}b$",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "C": "$a^{2}b^{2}$",
+            "image": null,
+            "is_correct": true
+          },
+          {
+            "D": "$a$",
+            "image": null,
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "32 va 48 sonlarining EKUKini toping",
+        "image": null,
+        "options": [
+          {
+            "A": "54",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "B": "100",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "C": "84",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "D": "96",
+            "image": null,
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question": "$EKUK(15;24)$ ning qiymatini toping",
+        "image": null,
+        "options": [
+          {
+            "A": "60",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "B": "90",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "C": "120",
+            "image": null,
+            "is_correct": true
+          },
+          {
+            "D": "150",
+            "image": null,
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "$EKUK(8;9;12)$ ning qiymatini toping",
+        "image": null,
+        "options": [
+          {
+            "A": "18",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "B": "24",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "C": "36",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "D": "72",
+            "image": null,
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question": "$EKUB(A;B)=10$ bo'lib $A:B=3:5$ bo'lsa, $A+B$ ning qiymatini toping",
+        "image": null,
+        "options": [
+          {
+            "A": "50",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "B": "70",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "C": "80",
+            "image": null,
+            "is_correct": true
+          },
+          {
+            "D": "90",
+            "image": null,
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "4800 ning tub bo'luvchilari sonini toping",
+        "image": null,
+        "options": [
+          {
+            "A": "42",
+            "image": null,
+            "is_correct": true
+          },
+          {
+            "B": "30",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "C": "15",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "D": "3",
+            "image": null,
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "1440 ning tub bo'luvchilari yig'indisini toping",
+        "image": null,
+        "options": [
+          {
+            "A": "36",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "B": "30",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "C": "17",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "D": "10",
+            "image": null,
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question": "$EKUB(72;60)+EKUK(28;20)$ ning qiymatini toping",
+        "image": null,
+        "options": [
+          {
+            "A": "119",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "B": "126",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "C": "136",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "D": "152",
+            "image": null,
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question": "$A = 2^{3} \\bullet 3 \\bullet 5$ va $B = 2^{2} \\bullet 3^{2} \\bullet 7$ sonlari uchun $\\frac{EKUK(A;B)}{EKUB(A;B)}$ ning qiymatini toping",
+        "image": null,
+        "options": [
+          {
+            "A": "$210$",
+            "image": null,
+            "is_correct": true
+          },
+          {
+            "B": "$220$",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "C": "$240$",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "D": "$280$",
+            "image": null,
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "$EKUB(12;140;36)+EKUK(6;16;20)$ ning qiymatini toping",
+        "image": null,
+        "options": [
+          {
+            "A": "198",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "B": "210",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "C": "244",
+            "image": null,
+            "is_correct": true
+          },
+          {
+            "D": "250",
+            "image": null,
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "$EKUB(18;60;x)=6$ va $EKUK(18;60;x)=1260$ bo'lsa, $x$ ning eng kichik qiymatini toping",
+        "image": null,
+        "options": [
+          {
+            "A": "6",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "B": "18",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "C": "36",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "D": "42",
+            "image": null,
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question": "$EKUB(24;x)=12$ va $EKUK(24;x)=120$ bo'lsa, $x$ ning raqamlari yig'indisini toping",
+        "image": null,
+        "options": [
+          {
+            "A": "4",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "B": "5",
+            "image": null,
+            "is_correct": true
+          },
+          {
+            "C": "6",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "D": "7",
+            "image": null,
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "$EKUB(EKUK(72;20);EKUK(24;32))$ ning qiymatini toping",
+        "image": null,
+        "options": [
+          {
+            "A": "18",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "B": "24",
+            "image": null,
+            "is_correct": true
+          },
+          {
+            "C": "36",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "D": "72",
+            "image": null,
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "$EKUB(x;12) \\cdot EKUK(x;12)=720$ bo'lsa, $EKUK(x;45)$ ning qiymatini toping",
+        "image": null,
+        "options": [
+          {
+            "A": "60",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "B": "90",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "C": "180",
+            "image": null,
+            "is_correct": true
+          },
+          {
+            "D": "240",
+            "image": null,
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "$EKUB(72;25)+EKUK(14;35;30)$ ning qiymatini toping",
+        "image": null,
+        "options": [
+          {
+            "A": "121",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "B": "181",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "C": "205",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "D": "211",
+            "image": null,
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question": "$EKUB(54;A)=18$ va $EKUK(54;A)=216$ bo'lsa, $A$ ning qiymatini toping",
+        "image": null,
+        "options": [
+          {
+            "A": "36",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "B": "48",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "C": "54",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "D": "72",
+            "image": null,
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question": "O'zaro tub sonlarning EKUKi 60 ga teng bo'lib ulardan biri 5 ga teng bo'lsa, ikkinchi sonni toping",
+        "image": null,
+        "options": [
+          {
+            "A": "13",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "B": "12",
+            "image": null,
+            "is_correct": true
+          },
+          {
+            "C": "15",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "D": "20",
+            "image": null,
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "$EKUK(36;A)=72$ va $EKUB(36;A)=12$ bo'lsa, $A$ ning qiymatini toping",
+        "image": null,
+        "options": [
+          {
+            "A": "14",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "B": "34",
+            "image": null,
+            "is_correct": false
+          },
+          {
+            "C": "24",
+            "image": null,
+            "is_correct": true
+          },
+          {
+            "D": "30",
+            "image": null,
+            "is_correct": false
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,183 @@
+{"questions":[
+    {
+      "question": "_____ open the windows. I'm cold.",
+      "options": [
+        {"A": "Don't", "is_correct": true},
+        {"B": "Can't", "is_correct": false},
+        {"C": "Mustn't", "is_correct": false},
+        {"D": "Needn't", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Shoes _____ be either black or brown.",
+      "options": [
+        {"A": "don't", "is_correct": false},
+        {"B": "are", "is_correct": false},
+        {"C": "may", "is_correct": true},
+        {"D": "need", "is_correct": false}
+      ]
+    },
+    {
+      "question": "A: My car has been stolen. B: _____.",
+      "options": [
+        {"A": "You should ring the police.", "is_correct": false},
+        {"B": "Will you phone the police?", "is_correct": true},
+        {"C": "Could you ring the police?", "is_correct": false},
+        {"D": "You are phoning the police", "is_correct": false}
+      ]
+    },
+    {
+      "question": "A: I bought this pen today and it doesn't work. B: _____.",
+      "options": [
+        {"A": "Could you fill it with ink?", "is_correct": false},
+        {"B": "Shall I give you another one?", "is_correct": true},
+        {"C": "You should take them back.", "is_correct": false},
+        {"D": "It cannot be expensive.", "is_correct": false}
+      ]
+    },
+    {
+      "question": "He _____ read faster a few years ago.",
+      "options": [
+        {"A": "can", "is_correct": false},
+        {"B": "could", "is_correct": true},
+        {"C": "might", "is_correct": false},
+        {"D": "must", "is_correct": false}
+      ]
+    },
+    {
+      "question": "_____ you pass the salt, please?",
+      "options": [
+        {"A": "Do", "is_correct": false},
+        {"B": "Are", "is_correct": false},
+        {"C": "Should", "is_correct": false},
+        {"D": "Could", "is_correct": true}
+      ]
+    },
+    {
+      "question": "_____ you remember which shoe you put on first this morning?",
+      "options": [
+        {"A": "May", "is_correct": false},
+        {"B": "Can", "is_correct": true},
+        {"C": "Should", "is_correct": false},
+        {"D": "Were", "is_correct": false}
+      ]
+    },
+    {
+      "question": "You _____ be hungry. You've just had dinner.",
+      "options": [
+        {"A": "aren't", "is_correct": false},
+        {"B": "can't", "is_correct": true},
+        {"C": "may", "is_correct": false},
+        {"D": "must", "is_correct": false}
+      ]
+    },
+    {
+      "question": "You _____ be hungry. You had no lunch.",
+      "options": [
+        {"A": "can't", "is_correct": false},
+        {"B": "shouldn't", "is_correct": false},
+        {"C": "must", "is_correct": true},
+        {"D": "couldn't", "is_correct": false}
+      ]
+    },
+    {
+      "question": "Sorry, this _____ be my bag. Mine is brown.",
+      "options": [
+        {"A": "can't", "is_correct": true},
+        {"B": "mustn't", "is_correct": false},
+        {"C": "can", "is_correct": false},
+        {"D": "could", "is_correct": false}
+      ]
+    },
+        {
+          "question": "_____ you speak Spanish?",
+          "options": [
+            {"A": "May", "is_correct": false},
+            {"B": "Are", "is_correct": false},
+            {"C": "Can", "is_correct": true},
+            {"D": "Is", "is_correct": false}
+          ]
+        },
+        {
+          "question": "A: _____ I go? B: Yes, you can.",
+          "options": [
+            {"A": "Could", "is_correct": true},
+            {"B": "Am", "is_correct": false},
+            {"C": "Need", "is_correct": false},
+            {"D": "Did", "is_correct": false}
+          ]
+        },
+        {
+          "question": "_____ you help me with my homework?",
+          "options": [
+            {"A": "Are", "is_correct": false},
+            {"B": "May", "is_correct": false},
+            {"C": "Can", "is_correct": true},
+            {"D": "Need", "is_correct": false}
+          ]
+        },
+        {
+          "question": "You _____ enter without a tie.",
+          "options": [
+            {"A": "aren't", "is_correct": false},
+            {"B": "can't", "is_correct": true},
+            {"C": "ought not", "is_correct": false},
+            {"D": "weren't", "is_correct": false}
+          ]
+        },
+        {
+          "question": "Cigarettes _____ seriously damage your health.",
+          "options": [
+            {"A": "are", "is_correct": false},
+            {"B": "do", "is_correct": false},
+            {"C": "can", "is_correct": true},
+            {"D": "were", "is_correct": false}
+          ]
+        },
+        {
+          "question": "_____ you post this letter for me?",
+          "options": [
+            {"A": "Will", "is_correct": true},
+            {"B": "Shall", "is_correct": false},
+            {"C": "May", "is_correct": false},
+            {"D": "Are", "is_correct": false}
+          ]
+        },
+        {
+          "question": "_____ I open the window?",
+          "options": [
+            {"A": "Will", "is_correct": false},
+            {"B": "Shall", "is_correct": true},
+            {"C": "Am", "is_correct": false},
+            {"D": "Do", "is_correct": false}
+          ]
+        },
+        {
+          "question": "We _____ leave now or we'll be late.",
+          "options": [
+            {"A": "has to", "is_correct": false},
+            {"B": "must", "is_correct": true},
+            {"C": "can", "is_correct": false},
+            {"D": "will", "is_correct": false}
+          ]
+        },
+        {
+          "question": "If you had video, you _____ record it yourself tonight.",
+          "options": [
+            {"A": "could", "is_correct": true},
+            {"B": "can", "is_correct": false},
+            {"C": "must", "is_correct": false},
+            {"D": "may", "is_correct": false}
+          ]
+        },
+        {
+          "question": "Please, _____ make noise.",
+          "options": [
+            {"A": "didn't", "is_correct": false},
+            {"B": "don't", "is_correct": true},
+            {"C": "can't", "is_correct": false},
+            {"D": "may not", "is_correct": false}
+          ]
+        }
+  ]
+}

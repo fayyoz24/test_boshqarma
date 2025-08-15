@@ -1,0 +1,445 @@
+{
+  "questions": [
+    {
+      "question": "To'g'ri fikrni toping.",
+      "options": [
+        {
+          "A": "Har doim ham aytilgandek yozish, yozilgandek aytish to´g´ri bo´lavermaydi.",
+          "is_correct": true
+        },
+        {
+          "B": "Adabiy nutq me´yorlariga amal qilmaslik savodsizlik va madaniyatsizlikdir, ona tiliga hurmatisizlik emas.",
+          "is_correct": false
+        },
+        {
+          "C": "Til ikki ko´rinishda namoyon bo´ladi: adabiy nutq va badiiy nutq.",
+          "is_correct": false
+        },
+        {
+          "D": "Adabiy nutq uslubining 2 xil turi bor.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qaysi qatordagi so'zlar jarangli sirg'aluvchi undosh bilan boshlangan?",
+      "options": [
+        {
+          "A": "jazm",
+          "is_correct": false
+        },
+        {
+          "B": "tepa",
+          "is_correct": false
+        },
+        {
+          "C": "qiroat",
+          "is_correct": false
+        },
+        {
+          "D": "jurnal",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "1993-yilning 2-sentabr kuni millatimiz qaysi grafikadan foydalanishni rasman to'xtatdi?",
+      "options": [
+        {
+          "A": "krill",
+          "is_correct": true
+        },
+        {
+          "B": "lotin",
+          "is_correct": false
+        },
+        {
+          "C": "arab",
+          "is_correct": false
+        },
+        {
+          "D": "oromiy",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Hozirgi lotin alifbomizdagi 9-, 19-, 29-harflarni toping.",
+      "options": [
+        {
+          "A": "k,x,ng",
+          "is_correct": false
+        },
+        {
+          "B": "j,t,ng",
+          "is_correct": true
+        },
+        {
+          "C": "g,l,ch",
+          "is_correct": false
+        },
+        {
+          "D": "o,v,ng",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qaysi so'zda bir o'rinda fonetik hodisa yuz bergan?",
+      "options": [
+        {
+          "A": "ayrilmog'i",
+          "is_correct": false
+        },
+        {
+          "B": "saylovchi",
+          "is_correct": true
+        },
+        {
+          "C": "son-sanoqsiz",
+          "is_correct": false
+        },
+        {
+          "D": "yashamog'i",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Talaffuzidagina fonetik hodisa yuz bergan soʻzni toping?",
+      "options": [
+        {
+          "A": "burulmoq",
+          "is_correct": true
+        },
+        {
+          "B": "burdirgan",
+          "is_correct": false
+        },
+        {
+          "C": "sinov",
+          "is_correct": false
+        },
+        {
+          "D": "singlim",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tovush ortishiga misol berilgan gapni toping.",
+      "options": [
+        {
+          "A": "Temir qo´rg´on ichida qizil toychoq o´ynaydi.",
+          "is_correct": false
+        },
+        {
+          "B": "Boshi taroq, dumi o´roq.",
+          "is_correct": false
+        },
+        {
+          "C": "Besh aka-uka bir quduqqa tosh otar.",
+          "is_correct": false
+        },
+        {
+          "D": "Yetti tuynukli gumbaz, Shundan xabar ber, Olmos.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Aytilganidek yozilmaydigan so'zni toping.",
+      "options": [
+        {
+          "A": "sakramoq",
+          "is_correct": false
+        },
+        {
+          "B": "qilich",
+          "is_correct": false
+        },
+        {
+          "C": "kitob",
+          "is_correct": true
+        },
+        {
+          "D": "jo'shqin",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Bolala... o´z otalari...an ...eros qi...ib ola...igan uch a...zal na...sa bor, bular: ...ushmuomalalik, odo..., s...doqat Nuqtalar o'rniga qanday tovush qo'yilmaydi?",
+      "options": [
+        {
+          "A": "r,n,m",
+          "is_correct": false
+        },
+        {
+          "B": "x,b,a",
+          "is_correct": false
+        },
+        {
+          "C": "l,d,f,r",
+          "is_correct": false
+        },
+        {
+          "D": "sh, ng, i",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Ma'no farqlovchi undoshlari jarangli tovush bo'lgan juftlikni toping.",
+      "options": [
+        {
+          "A": "yondash-yondosh",
+          "is_correct": false
+        },
+        {
+          "B": "tasir-ta´sir",
+          "is_correct": false
+        },
+        {
+          "C": "mard-mart",
+          "is_correct": false
+        },
+        {
+          "D": "qiymat-qimmat",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Bilib oling! Nutq tovushlarining asosiy vazifasi so´zlarning ma´nolarini farqlashdir. Ushbu qoidaga mos kelmagan juftlikni toping.",
+      "options": [
+        {
+          "A": "o'tkaz-o'tqaz",
+          "is_correct": false
+        },
+        {
+          "B": "afzal-abzal",
+          "is_correct": false
+        },
+        {
+          "C": "balo-bola",
+          "is_correct": false
+        },
+        {
+          "D": "aloqa-telefon",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Bir tovushi o´zgartirilib boshqa so´z hosil qilingan so'zlar qatorini toping.",
+      "options": [
+        {
+          "A": "ko'z-bo'z-to'z-so'z",
+          "is_correct": true
+        },
+        {
+          "B": "iborat-ibodat-itoat-iqomat",
+          "is_correct": false
+        },
+        {
+          "C": "visol-misol-masal-g'izol",
+          "is_correct": false
+        },
+        {
+          "D": "judo-juda-jodi-jodugar",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qaysi so'z imlosida –im egalik shakli qo'shilishi natijasida fonetik hodisa kuzatilmaydi?",
+      "options": [
+        {
+          "A": "obro'",
+          "is_correct": false
+        },
+        {
+          "B": "parvo",
+          "is_correct": false
+        },
+        {
+          "C": "bu",
+          "is_correct": false
+        },
+        {
+          "D": "insho",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "So`zga qo`shimcha qo`shganimizda quyidagi qaysi tovush ortmaydi?",
+      "options": [
+        {
+          "A": "n",
+          "is_correct": false
+        },
+        {
+          "B": "k",
+          "is_correct": true
+        },
+        {
+          "C": "ch",
+          "is_correct": false
+        },
+        {
+          "D": "s",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Notoʻgʻri fikrni toping.",
+      "options": [
+        {
+          "A": "Tilning tovush tuzilishi fonetika bo´limida, harflar tizimi esa grafika bo´limida o´rganiladi.",
+          "is_correct": false
+        },
+        {
+          "B": "So´zlarni to´g´ri yozish qoidalari bilan orfografiya (imlo)da, to´g´ri talaffuz qoidalari bilan esa orfoepiya bo´limida tanishiladi.",
+          "is_correct": false
+        },
+        {
+          "C": "So´z va uning ma´nolarini morfologiya bo´limi, so´z turkumlarini leksikologiya bo´limi (bu bo´lim grammatikaning birinchi bo´limi) o´rganadi.",
+          "is_correct": true
+        },
+        {
+          "D": "Sintaksis bo´limi bilan uzviy bog´liq bo´lim punktuatsiyadir. Unda tinish belgilarining vazifalari o´rganiladi.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi qaysi soʻzlarda urgʻu toʻgʻri oʻringa qoʻyilgan? 1) Lo´ndonga, 2) beshiktervata´r, 3) oli´b ke´l, 4) rektorlarda´, 5) har do´im",
+      "options": [
+        {
+          "A": "2,3,4",
+          "is_correct": true
+        },
+        {
+          "B": "1,2,5",
+          "is_correct": false
+        },
+        {
+          "C": "1,2,3",
+          "is_correct": false
+        },
+        {
+          "D": "faqat 2",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Asosdagi quyi keng unlini quyi keng unliga yoki yuqori tor unlini yuqori tor unliga almashtira oladigan qo'shimchani toping.",
+      "options": [
+        {
+          "A": "b",
+          "is_correct": false
+        },
+        {
+          "B": "v",
+          "is_correct": true
+        },
+        {
+          "C": "m",
+          "is_correct": false
+        },
+        {
+          "D": "f",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Internetdagi \"Gugl\" (\"Google\") tizimi …aqida bilasizmi? Bu qidiru… tizimi 101 dan ortiq tillarda so'rovlarni qayta ishlaydi va 132 …ingdan ortiq kompyuterdan iborat. Nuqtalar o'rniga qanday tovush \"shart\" emas?",
+      "options": [
+        {
+          "A": "bo'g'iz undoshi",
+          "is_correct": false
+        },
+        {
+          "B": "lab sirg'aluvchi undoshi",
+          "is_correct": false
+        },
+        {
+          "C": "til oldi undoshi",
+          "is_correct": true
+        },
+        {
+          "D": "lab sonori",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qaysi so'z lotin alifbosi asosida yozilganda ham tutuq belgisi kerak bo'lmaydi?",
+      "options": [
+        {
+          "A": "Is…hoq",
+          "is_correct": false
+        },
+        {
+          "B": "As…hob",
+          "is_correct": false
+        },
+        {
+          "C": "Mus…haf",
+          "is_correct": false
+        },
+        {
+          "D": "Mash…hur",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Qaysi qatorda ko'chirish qoidalari buzilmagan?",
+      "options": [
+        {
+          "A": "Den-giz, ke-tin-glar",
+          "is_correct": false
+        },
+        {
+          "B": "o-ta-la-ri, Nam-DU",
+          "is_correct": false
+        },
+        {
+          "C": "ma-'lu-mot, tong-gi",
+          "is_correct": false
+        },
+        {
+          "D": "mat-baa, ya-ngi",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Qaysi so'z tarkibida jarangli-jarangsiz juftlik hosil qiluvchi undoshlar mavjud?",
+      "options": [
+        {
+          "A": "gazeta",
+          "is_correct": false
+        },
+        {
+          "B": "ishtirok",
+          "is_correct": false
+        },
+        {
+          "C": "bunday",
+          "is_correct": false
+        },
+        {
+          "D": "go'dak",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+  }

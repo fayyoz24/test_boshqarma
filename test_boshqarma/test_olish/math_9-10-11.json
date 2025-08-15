@@ -1,0 +1,783 @@
+{"questions": [
+    {
+      "question": "111213...7980 sonning raqamlari yig'indisini toping.",
+      "image": null,
+      "options": [
+        {
+          "A": "602",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "405",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "648",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "D": "600",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "3, 6, 7, 5 raqamlaridan tuzilgan to'rt xonali sonlarning nеchtasi 4 ga bo'linadi?",
+      "image": null,
+      "options": [
+        {
+          "A": "4",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "5",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "6",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "D": "7",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Sonni beshga bo'lganda 4 qoldiq qoladi. Shu sonning kubini 5 ga bo'lganda necha qoldiq qoladi.",
+      "image": null,
+      "options": [
+        {
+          "A": "6",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "4",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "C": "3",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "2",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "72 va 96 sonlarining EKUKini EKUBiga nisbatini toping.",
+      "image": null,
+      "options": [
+        {
+          "A": "10",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "9",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "12",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "D": "0,5",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "$10047^{6000006}+256789^{256789}$ yig'indining oxirgi raqamini toping.",
+      "image": null,
+      "options": [
+        {
+          "A": "6",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "7",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "C": "8",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "9",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "7-10+15-18+23-26+...+95-98=?",
+      "image": null,
+      "options": [
+        {
+          "A": "-56",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "-36",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "-45",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "E": "-63",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "0,0015·0,016 ko'paytma quyidagilardan qaysi biriga teng emas?",
+      "image": null,
+      "options": [
+        {
+          "A": "$2,4 \\cdot 10^{-5}$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "$240 \\cdot 10^{-7}$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "$24 \\cdot 10^{-6}$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "$0,0024 \\cdot 10^{-3}$",
+          "image": null,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "$a+a^{-1}=3$ bo'lsa, $\\frac{a^6+1}{9a^3}=?$",
+      "image": null,
+      "options": [
+        {
+          "A": "18",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "6",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "2",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "D": "1",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "$(3x+1)(3x-1)+4y(4y-6x)+8$ ifodaning eng kichik qiymatini toping.",
+      "image": null,
+      "options": [
+        {
+          "A": "2",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "3",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "7",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "D": "8",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "$a^4+4b^4$ ni ratsional ko'paytuvchilarga ajrating.",
+      "image": null,
+      "options": [
+        {
+          "A": "$(a^2-2b^2)(a^2+2b^2)$",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "B": "$(a^2-2ab+2b^2)(a^2+2ab+2b^2)$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "$(a^2-b^2)(a^2+4b^2)$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "$(a^2+2ab+2b^2)(a^2-2ab-2b^2)$",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "$\\frac{(n-1)(n+1)(n+2)}{n}$ ifoda n ning nechta natural quymatida natural son bo'ladi?",
+      "image": null,
+      "options": [
+        {
+          "A": "3",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "B": "1",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "5",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "2",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "$a+b+c=0$ bo'lsa, $a^3+a^2c-abc+b^2c+b^3=?$",
+      "image": null,
+      "options": [
+        {
+          "A": "0",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "B": "1",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "2",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "-1",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "$\\sqrt{1+\\sqrt{1+\\sqrt{1+\\sqrt{1+...}}}}=?$",
+      "image": null,
+      "options": [
+        {
+          "A": "2",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "B": "4",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "0",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "5",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "$a-b=3$ va $a+b=5$ bo'lsa, $2a^2-5ab+2b^2=?$",
+      "image": null,
+      "options": [
+        {
+          "A": "47",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "2",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "3",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "49",
+          "image": null,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "$\\frac{\\sqrt{12}}{\\sqrt{27}-\\sqrt{3}}$ kasr maxrajidagi irratsionallikni yo'qoting.",
+      "image": null,
+      "options": [
+        {
+          "A": "$\\sqrt{3}+\\sqrt{1}$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "$\\sqrt{4}+\\sqrt{3}$",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "C": "$\\sqrt{3}$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "$\\sqrt{4}$",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "$\\sin{30^\\circ}\\cos{60^\\circ}+\\cos{30^\\circ}\\sin{60^\\circ}=$",
+      "image": null,
+      "options": [
+        {
+          "A": "$\\frac{\\sqrt{6}}{4}$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "$\\frac{\\sqrt{3}}{2}$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "0",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "$1$",
+          "image": null,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Agar $x=\\frac{\\pi}{6}$ bo'lsa, $\\frac{\\sin{4x}}{\\cos{2x}}=$",
+      "image": null,
+      "options": [
+        {
+          "A": "$\\frac{\\sqrt{3}}{3}$",
+          "image": null, 
+          "is_correct": true
+        },
+        {
+          "B": "$-\\frac{\\sqrt{3}}{3}$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "$\\frac{2\\sqrt{3}}{3}$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "0",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "$\\log_{2}9 \\cdot \\log_{3}4 \\cdot \\log_{4}5 \\cdot ... \\cdot \\log_{9}10=$",
+      "image": null,
+      "options": [
+        {
+          "A": "$\\log_{2}10$",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "B": "$\\log_{3}10$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "$\\log_{4}10$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "$\\log_{5}10$",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "y mрinutda x mm yomg'ir yog'adi. 3,5 soatda necha mm yomg'ir yog'adi?",
+      "image": null,
+      "options": [
+        {
+          "A": "$\\frac{150x}{y}$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "$\\frac{180y}{x}$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "$\\frac{210y}{x}$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "$\\frac{210x}{y}$",
+          "image": null,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "$8(3^2+1)(3^4+1)(3^8+1)...(3^{512}+1)x=3^{1024}-1$ tenglamani yeching.",
+      "image": null,
+      "options": [
+        {
+          "A": "8",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "$\\frac{1}{8}$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "1",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "D": "-1",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Ildizlaridan biri $3+\\sqrt{2}$ bo'lgan ratsional koeffitsiyentli kvadrat tenglama tuzing.",
+      "image": null,
+      "options": [
+        {
+          "A": "$x^2+6x+4=0$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "$x^2-6x+7=0$",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "C": "$x^2-6x+5=0$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "$x^2-6x-5=0$",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "$\\frac{19}{\\sqrt{20} + 1} + 4 - 2\\sqrt{5}$ ni soddalashtiring.",
+      "image": null,
+      "options": [
+        {
+          "A": "3",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "B": "$4\\sqrt{5} - 7$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "$4\\sqrt{5} - 6$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "6",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "$\\frac{121^3 - 21^3}{121^2 + 121 \\cdot 21 + 21^2}$ hisoblang.",
+      "image": null,
+      "options": [
+        {
+          "A": "10",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "100",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "C": "25",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "142",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "$3 \\cdot 5 \\cdot 9 \\cdot 27 \\cdot ... \\cdot 1023 - 3$ ifodaning qiymati qanday raqam bilan tugaydi?",
+      "image": null,
+      "options": [
+        {
+          "A": "3",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "2",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "C": "0",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "8",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Yig'indining oxirgi raqamini toping. $3^{4231} + 4^{723} + 8^{321}$",
+      "image": null,
+      "options": [
+        {
+          "A": "3",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "5",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "C": "7",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "9",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Sistemaning natural yechimlari nechta? $\\left\\{ \\begin{array}{r} x + 3 < 4 + 2x \\\\ 5x - 3 < 4x - 1 \\end{array} \\right.$",
+      "image": null,
+      "options": [
+        {
+          "A": "1",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "B": "2",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "3",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "4",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tengsizliklar sistemasining butun yechimlari yig'indisini toping. $\\left\\{ \\begin{array}{r} \\frac{x - 1}{4} \\leq \\frac{x}{5} \\\\ \\frac{x}{3} > \\frac{x + 4}{7} \\end{array} \\right.$",
+      "image": null,
+      "options": [
+        {
+          "A": "12",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "8",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "9",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "D": "7",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Agar $\\sqrt{34 - 24\\sqrt{2}} = a + b\\sqrt{2}$ bo'lsa, a+b ni toping.",
+      "image": null,
+      "options": [
+        {
+          "A": "1",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "2",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "-1",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "D": "-2",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "$\\frac{\\sqrt{2} + 1}{3 + 2\\sqrt{2}} - \\frac{\\sqrt{2} - 1}{3 - 2\\sqrt{2}}$ ni soddalashtiring.",
+      "image": null,
+      "options": [
+        {
+          "A": "1",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "-1",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "C": "2",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "-2",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Ifodani soddalashtiring. $\\frac{\\sqrt{(x + 2)^2 - 8x}}{\\sqrt{x} - \\frac{2}{\\sqrt{x}}}; 0 < x < 2$",
+      "image": null,
+      "options": [
+        {
+          "A": "$x$",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "B": "$\\sqrt{x}$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "$-\\sqrt{x}$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "$-x$",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

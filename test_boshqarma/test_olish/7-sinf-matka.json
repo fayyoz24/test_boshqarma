@@ -1,0 +1,914 @@
+{
+    "questions":[
+    {
+      "question": "To'g'ri to'rtburchakning buyi 4 sm, eni bo'yidan 2,4 sm qisqa. To'g'ri to'rtburchakning yuzini toping.",
+      "image": null,
+      "options": [
+        {
+          "A": "6,4 sm²",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "4,8 sm²",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "5,4 sm²",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "D": "7,2 sm²",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Amallarni bajaring. $(6 + 12) \\cdot 3$",
+      "image": null,
+      "options": [
+        {
+          "A": "42",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "30",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "54",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "D": "48",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "$a = 2$, $v = 3$ bo'lganda $3a + 2v - 7$ algebraik ifodaning qiymatini toping.",
+      "image": null,
+      "options": [
+        {
+          "A": "5",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "B": "10",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "-12",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "3",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "$2a + 3v$ bunda $a = 3$, $v = -2$ ifodaning qiymatini toping.",
+      "image": null,
+      "options": [
+        {
+          "A": "0",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "B": "12",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "-12",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "6",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qavslarni oching. $a + (2v + 3s)$",
+      "image": null,
+      "options": [
+        {
+          "A": "$a + 2v - 3s$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "$a - 2v - 3s$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "$a + 2v + 3s$",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "D": "$a - 2v + 3s$",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Soddalashtiring $(5a - 2v) - (3v - 5a)$",
+      "image": null,
+      "options": [
+        {
+          "A": "$8av - 7va$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "$10a - 5v$",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "C": "$10a + 6v$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "$5a - 3v$",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Ifodaning son qiymatini toping. $p = 2(a + v)$, $a = 5$, $v = 7$",
+      "image": null,
+      "options": [
+        {
+          "A": "24",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "B": "4",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "8",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "16",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tenglamani yeching. $x = 3$",
+      "image": null,
+      "options": [
+        {
+          "A": "1,5",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "6",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "C": "8",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "4",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tenglamani yeching $25x - 1 = 9$",
+      "image": null,
+      "options": [
+        {
+          "A": "0,4",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "B": "32",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "34",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "0,5",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Qavslarni oching $a + (2v - 3s)$",
+      "image": null,
+      "options": [
+        {
+          "A": "$a + 2v + 3s$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "$a + 2v - 3s$",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "C": "$a - 2v - 3s$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "$a - 2v + 3s$",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "To'g'ri to'rtburchakning bo'yi 8 sm ga teng. Eni bo'yidan 1,5 sm qisqa. To'g'ri to'rtburchakning yuzini toping.",
+      "image": null,
+      "options": [
+        {
+          "A": "50 sm²",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "60 sm²",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "52 sm²",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "D": "55 sm²",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+        {
+          "question": "Propotsiyaning noma'lum hadini toping. $3,5 : X = 2,4 : 4,8$",
+          "image": null,
+          "options": [
+            {
+              "A": "7",
+              "image": null,
+              "is_correct": true
+            },
+            {
+              "B": "64",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "C": "70",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "D": "14",
+              "image": null,
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question": "\"Тiko\" rusumli avtomobil 100 km masofaga 5 litr benzin sarflaydi. Bu avtomobil 50 km masofaga qancha benzin sarflaydi?",
+          "image": null,
+          "options": [
+            {
+              "A": "7,5",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "B": "2,5",
+              "image": null,
+              "is_correct": true
+            },
+            {
+              "C": "6,5",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "D": "5",
+              "image": null,
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question": "Tenglamani yeching. $4x = 16$",
+          "image": null,
+          "options": [
+            {
+              "A": "4",
+              "image": null,
+              "is_correct": true
+            },
+            {
+              "B": "5",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "C": "8",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "D": "6",
+              "image": null,
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question": "Amallarni bajaring. $2,7 + (3,2 + 2,8)$",
+          "image": null,
+          "options": [
+            {
+              "A": "10,2",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "B": "9,7",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "C": "8,7",
+              "image": null,
+              "is_correct": true
+            },
+            {
+              "D": "9,2",
+              "image": null,
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question": "O'xshash xadlarni ixchamlang. $4a + 2v + a - v$",
+          "image": null,
+          "options": [
+            {
+              "A": "$5a + v$",
+              "image": null,
+              "is_correct": true
+            },
+            {
+              "B": "$va + v$",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "C": "$8a - v$",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "D": "$6a + v$",
+              "image": null,
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question": "$8a + 2v + a - v$",
+          "image": null,
+          "options": [
+            {
+              "A": "$9a + v$",
+              "image": null,
+              "is_correct": true
+            },
+            {
+              "B": "$9a - v$",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "C": "$9a + v$",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "D": "$8a + 2v$",
+              "image": null,
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question": "$a + (2v - 3s)$ qavsni oching.",
+          "image": null,
+          "options": [
+            {
+              "A": "$a - 2v - 3s$",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "B": "$a + 2v + 3s$",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "C": "$a + 2v - 3s$",
+              "image": null,
+              "is_correct": true
+            },
+            {
+              "D": "$a - 2v + 3s$",
+              "image": null,
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question": "$a - (2v + 3s)$ qavsni oching.",
+          "image": null,
+          "options": [
+            {
+              "A": "$a - 2v - 3s$",
+              "image": null,
+              "is_correct": true
+            },
+            {
+              "B": "$a + 2v + 3s$",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "C": "$a + 6vs$",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "D": "$a - 2v + 3s$",
+              "image": null,
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question": "Algebraik ifodaning son qiymatini toping. $a + vs$ bunda $a = 1$, $v = 2$, $s = 3$",
+          "image": null,
+          "options": [
+            {
+              "A": "7",
+              "image": null,
+              "is_correct": true
+            },
+            {
+              "B": "8",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "C": "9",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "D": "6",
+              "image": null,
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question": "$a - vs$ bunda $a = 2$, $v = 1$, $s = 3$",
+          "image": null,
+          "options": [
+            {
+              "A": "9",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "B": "6",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "C": "-1",
+              "image": null,
+              "is_correct": true
+            },
+            {
+              "D": "0",
+              "image": null,
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question": "Tenglamani yeching $2u + 3 = 7$",
+          "image": null,
+          "options": [
+            {
+              "A": "2",
+              "image": null,
+              "is_correct": true
+            },
+            {
+              "B": "3",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "C": "4",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "D": "1",
+              "image": null,
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question": "Tenglamani yeching. $x + 12 = 22$",
+          "image": null,
+          "options": [
+            {
+              "A": "2",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "B": "32",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "C": "10",
+              "image": null,
+              "is_correct": true
+            },
+            {
+              "D": "8",
+              "image": null,
+              "is_correct": false
+            }
+          ]
+        },
+            {
+              "question": "Umumiy ko'paytuvchini qavsdan chiqarish amali qaysi javobda to'g'ri ko'rsatilgan? $3a - 3x$",
+              "image": null,
+              "options": [
+                {
+                  "A": "$(3a - 3x)$",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "B": "$3ax$",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "C": "$3(a - x)$",
+                  "image": null,
+                  "is_correct": true
+                },
+                {
+                  "D": "$3a - x$",
+                  "image": null,
+                  "is_correct": false
+                }
+              ]
+            },
+            {
+              "question": "85 sm.ni diametrda ifodalang.",
+              "image": null,
+              "options": [
+                {
+                  "A": "85 dm.",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "B": "8,5 dm.",
+                  "image": null,
+                  "is_correct": true
+                },
+                {
+                  "C": "0,85 dm.",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "D": "10,5 dm.",
+                  "image": null,
+                  "is_correct": false
+                }
+              ]
+            },
+            {
+              "question": "Eng soda geometric shakl nima?",
+              "image": null,
+              "options": [
+                {
+                  "A": "nuqta",
+                  "image": null,
+                  "is_correct": true
+                },
+                {
+                  "B": "vergul",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "C": "to'g'ri chiziq",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "D": "aylana",
+                  "image": null,
+                  "is_correct": false
+                }
+              ]
+            },
+            {
+              "question": "Ikkita nuqta orqali nechta to'g'ri chiziq o'tkazish mumkin?",
+              "image": null,
+              "options": [
+                {
+                  "A": "3 ta",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "B": "2 ta",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "C": "1 ta",
+                  "image": null,
+                  "is_correct": true
+                },
+                {
+                  "D": "4 ta",
+                  "image": null,
+                  "is_correct": false
+                }
+              ]
+            },
+            {
+              "question": "Birhadni boshqa birhadning kvadrati shaklida yozing: $9a^2$",
+              "image": null,
+              "options": [
+                {
+                  "A": "$3^2a^2$",
+                  "image": null,
+                  "is_correct": true
+                },
+                {
+                  "B": "$3^3a^2$",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "C": "$3^4a^2$",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "D": "$3a^2$",
+                  "image": null,
+                  "is_correct": false
+                }
+              ]
+            },
+            {
+              "question": "Birhadni darajaga ko'paytiring: $(2a)^3$",
+              "image": null,
+              "options": [
+                {
+                  "A": "$2a^4$",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "B": "$2^3a^3$",
+                  "image": null,
+                  "is_correct": true
+                },
+                {
+                  "C": "$2a^5$",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "D": "$8a^3$",
+                  "image": null,
+                  "is_correct": false
+                }
+              ]
+            },
+            {
+              "question": "Birhadni boshqa birhadning kubi shaklida yozing: $27a^3$",
+              "image": null,
+              "options": [
+                {
+                  "A": "$27^3a^3$",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "B": "$9^3a^3$",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "C": "$3^3a^3$",
+                  "image": null,
+                  "is_correct": true
+                },
+                {
+                  "D": "$3^2a^3$",
+                  "image": null,
+                  "is_correct": false
+                }
+              ]
+            },
+            {
+              "question": "Birhadni ko'paytiring: $(2a)(3b)$",
+              "image": null,
+              "options": [
+                {
+                  "A": "$6ab$",
+                  "image": null,
+                  "is_correct": true
+                },
+                {
+                  "B": "$5ba$",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "C": "$2^3ab$",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "D": "$5ab$",
+                  "image": null,
+                  "is_correct": false
+                }
+              ]
+            },
+            {
+              "question": "Ko'phadlar deb nimaga aytiladi?",
+              "image": null,
+              "options": [
+                {
+                  "A": "Bir necha birhadning algebraik yig'indisi ko'phad deyiladi",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "B": "Bir necha birhadlar ko'paytmasi ko'phad deyiladi",
+                  "image": null,
+                  "is_correct": true
+                },
+                {
+                  "C": "Bir necha ko'phadlarning algebraik yig'indisi ko'phad deyiladi",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "D": "Bir necha algebraik ifodalarning ko'paytmasi ko'phad deyiladi",
+                  "image": null,
+                  "is_correct": false
+                }
+              ]
+            },
+            {
+              "question": "$2a^3 + 3ab$ bunda $a = 1$, $b = 2$ ko'phadni son qiymati qaysi javobda to'g'ri ko'rsatilgan?",
+              "image": null,
+              "options": [
+                {
+                  "A": "6",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "B": "8",
+                  "image": null,
+                  "is_correct": true
+                },
+                {
+                  "C": "10",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "D": "7",
+                  "image": null,
+                  "is_correct": false
+                }
+              ]
+            },
+            {
+              "question": "Har qanday ko'phadni qanday standart shakga keltirish mumkin?",
+              "image": null,
+              "options": [
+                {
+                  "A": "Avval har bir hadini standart shaklda yozish, so'ngra o'xshash hadlarini ixchamlash kerak",
+                  "image": null,
+                  "is_correct": true
+                },
+                {
+                  "B": "Oldin o'xshash hadlarini ixchamlanadi",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "C": "Javoblar noto'g'ri",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "D": "Har bir hadni alohida qarab o'tish kerak",
+                  "image": null,
+                  "is_correct": false
+                }
+              ]
+            },
+            {
+              "question": "Poezdning uzunligi 800 m. U ustun yonidan 40 sekundda o'tib ketdi. Poezdning tezligini toping.",
+              "image": null,
+              "options": [
+                {
+                  "A": "30 m/s",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "B": "15 m/s",
+                  "image": null,
+                  "is_correct": false
+                },
+                {
+                  "C": "20 m/s",
+                  "image": null,
+                  "is_correct": true
+                },
+                {
+                  "D": "25 m/s",
+                  "image": null,
+                  "is_correct": false
+                }
+              ]
+            }
+        ]
+}

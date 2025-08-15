@@ -1,0 +1,655 @@
+{
+    "questions": [
+      {
+        "question": "Nerv sistemasining reflektorlik xususiyatini kim tushuntirib bergan?",
+        "options": [
+          {
+            "A": "I.P.Pavlov",
+            "is_correct": false
+          },
+          {
+            "B": "I.M. Sechenov",
+            "is_correct": true
+          },
+          {
+            "C": "A.Levenguk",
+            "is_correct": false
+          },
+          {
+            "D": "I.I.Mechnikov",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "Kim odamning xatti-harakati va ruhiy holati nerv sistemasining reflektorlik xususiyati bilan bog'liqligini isbotlab berdi?",
+        "options": [
+          {
+            "A": "I.P.Pavlov",
+            "is_correct": false
+          },
+          {
+            "B": "I.I.Mechnikov",
+            "is_correct": false
+          },
+          {
+            "C": "A.Levenguk",
+            "is_correct": false
+          },
+          {
+            "D": "I.M. Sechenov",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question": "«Bosh miya reflekslari» asari kimga tegishli?",
+        "options": [
+          {
+            "A": "I.M. Sechenov",
+            "is_correct": true
+          },
+          {
+            "B": "I.P.Pavlov",
+            "is_correct": false
+          },
+          {
+            "C": "A.Levenguk",
+            "is_correct": false
+          },
+          {
+            "D": "I.I.Mechnikov",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "«Bosh miya reflekslari» asari nechanchi yilda yozilgan?",
+        "options": [
+          {
+            "A": "1963-yilda",
+            "is_correct": false
+          },
+          {
+            "B": "1863-yilda",
+            "is_correct": true
+          },
+          {
+            "C": "1862-yilda",
+            "is_correct": false
+          },
+          {
+            "D": "1860-yilda",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "Tashqi muhit ta'sirida sezgi organlarida qo'zg'alish hosil bo'lishi refleksning qaysi qismi hisoblanadi?",
+        "options": [
+          {
+            "A": "birinchi",
+            "is_correct": true
+          },
+          {
+            "B": "ikkinchi",
+            "is_correct": false
+          },
+          {
+            "C": "uchinchi",
+            "is_correct": false
+          },
+          {
+            "D": "to'rtinchi",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "Miyada hosil bo'ladigan qo'zg'alish va tormozlanish jarayonlari asosida",
+        "options": [
+          {
+            "A": "birinchi",
+            "is_correct": false
+          },
+          {
+            "B": "ikkinchi",
+            "is_correct": true
+          },
+          {
+            "C": "uchinchi",
+            "is_correct": false
+          },
+          {
+            "D": "to'rtinchi",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "Kim I.M. Sechenovning ishlarini davom ettirib, shartsiz va shartli reflekslarni kashf etdi?",
+        "options": [
+          {
+            "A": "I.P.Pavlov",
+            "is_correct": true
+          },
+          {
+            "B": "I.I.Mechnikov",
+            "is_correct": false
+          },
+          {
+            "C": "A.Levenguk",
+            "is_correct": false
+          },
+          {
+            "D": "G.Mendel",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "Kimning fikricha, oliy nerv faoliyati ichki muhit doimiyligini saqlashga qaratilgan tuban nerv faoliyatidan farq qiladi?",
+        "options": [
+          {
+            "A": "I.M.Sechenov",
+            "is_correct": false
+          },
+          {
+            "B": "I.I.Mechnikov",
+            "is_correct": false
+          },
+          {
+            "C": "A.Levenguk",
+            "is_correct": false
+          },
+          {
+            "D": "I.P.Pavlov",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question": "Oliy nerv faoliyatini ta'minlaydigan nerv bog'lanishlar qachon shakllanadi?",
+        "options": [
+          {
+            "A": "bilim ola boshlagandan so'ng",
+            "is_correct": false
+          },
+          {
+            "B": "ona qornidayoq",
+            "is_correct": false
+          },
+          {
+            "C": "bola tug'ilganidan so'ng",
+            "is_correct": true
+          },
+          {
+            "D": "3-4 yoshlardan",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "Nasldan naslga o'tadigan reflekslar qanday reflekslar deyiladi?",
+        "options": [
+          {
+            "A": "irsiy reflekslar",
+            "is_correct": false
+          },
+          {
+            "B": "shartsiz reflekslar",
+            "is_correct": true
+          },
+          {
+            "C": "shartli reflekslar",
+            "is_correct": false
+          },
+          {
+            "D": "tug'ma reflekslar",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "Qanday reflekslar odam yoki hayvonlar hayoti davomida deyarli o'zgarmasdan qoladi?",
+        "options": [
+          {
+            "A": "irsiy reflekslar",
+            "is_correct": false
+          },
+          {
+            "B": "shartli reflekslar",
+            "is_correct": false
+          },
+          {
+            "C": "shartsiz reflekslar",
+            "is_correct": true
+          },
+          {
+            "D": "aralash reflekslar",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "Nafas olishning nafas chiqarish bilan almashinib turishi, kuchli yorug'likda ko'z qorachig'ining torayib, qorong'ida kengayishi, ovqat og'izga tushganda so'lak ajralishi qanday refleksga misol bo'ladi?",
+        "options": [
+          {
+            "A": "irsiy reflekslar",
+            "is_correct": false
+          },
+          {
+            "B": "aralash reflekslar",
+            "is_correct": false
+          },
+          {
+            "C": "shartli reflekslar",
+            "is_correct": false
+          },
+          {
+            "D": "shartsiz reflekslar",
+            "is_correct": true
+          }
+        ]
+      },
+      {
+        "question": "Tug'ilgan chaqaloqning ilk bor nafas olishi qanday refleksga misol bo'ladi?",
+        "options": [
+          {
+            "A": "irsiy reflekslar",
+            "is_correct": false
+          },
+          {
+            "B": "shartsiz reflekslar",
+            "is_correct": false
+          },
+          {
+            "C": "shartli reflekslar",
+            "is_correct": true
+          },
+          {
+            "D": "tug'ma reflekslar",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "Qachon chaqaloqning ona organizmi bilan bog'lanishi uziladi?",
+        "options": [
+          {
+            "A": "bola tug'ilgandan so'ng",
+            "is_correct": false
+          },
+          {
+            "B": "yo'ldosh bachadon devoridan ko'chib tushganidan so'ng",
+            "is_correct": true
+          },
+          {
+            "C": "bolaning kindigi kesilgandan so'ng",
+            "is_correct": false
+          },
+          {
+            "D": "chaqaloq qonida CO2 to'plana boshlagach",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "Muhitining muayyan sharoitiga organizmning moslanishini ta'minlaydigan refleks turini aniqlang?",
+        "options": [
+          {
+            "A": "irsiy reflekslar",
+            "is_correct": false
+          },
+          {
+            "B": "shartsiz reflekslar",
+            "is_correct": true
+          },
+          {
+            "C": "shartli reflekslar",
+            "is_correct": false
+          },
+          {
+            "D": "orttirilgan reflekslar",
+            "is_correct": false
+          }
+        ]
+      },
+          {
+            "question": "Qanday reflekslar odam yoki hayvonlar hayoti davomida deyarli o'zgarmasdan qoladi?",
+            "options": [
+              {
+                "A": "irsiy reflekslar",
+                "is_correct": false
+              },
+              {
+                "B": "shartli reflekslar",
+                "is_correct": false
+              },
+              {
+                "C": "shartsiz reflekslar",
+                "is_correct": true
+              },
+              {
+                "D": "tug'ma reflekslar",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "question": "O'zgaruvchan iqlim sharoitida odam uchun zararli hisoblanadigan refleks turini aniqlang?",
+            "options": [
+              {
+                "A": "irsiy reflekslar",
+                "is_correct": false
+              },
+              {
+                "B": "shartsiz reflekslar",
+                "is_correct": true
+              },
+              {
+                "C": "shartli reflekslar",
+                "is_correct": false
+              },
+              {
+                "D": "tug'ma reflekslar",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "question": "Avtomobil yo'llarining ko'payishi, kechasi asfalt yuzasiga isinish uchun chiqadigan qaysi jonivorlarning ko'plab qirilib ketishiga sabab bo'lmoqda?",
+            "options": [
+              {
+                "A": "qurbaqa",
+                "is_correct": false
+              },
+              {
+                "B": "kaltakesak",
+                "is_correct": false
+              },
+              {
+                "C": "toshbaqa",
+                "is_correct": false
+              },
+              {
+                "D": "tipratikan",
+                "is_correct": true
+              }
+            ]
+          },
+          {
+            "question": "Organizmning tug'ma xatti-harakatlarining asosini qaysi reflekslar tashkil etadi?",
+            "options": [
+              {
+                "A": "irsiy reflekslar",
+                "is_correct": false
+              },
+              {
+                "B": "shartsiz reflekslar",
+                "is_correct": true
+              },
+              {
+                "C": "shartli reflekslar",
+                "is_correct": false
+              },
+              {
+                "D": "orttirilgan reflekslar",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "question": "Murakkab xatti-harakatlar nima deyiladi?",
+            "options": [
+              {
+                "A": "instinkt",
+                "is_correct": true
+              },
+              {
+                "B": "tryuk",
+                "is_correct": false
+              },
+              {
+                "C": "snaps",
+                "is_correct": false
+              },
+              {
+                "D": "shartli refleks",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "question": "Reflekslarning qaysi turi doimiy bo'lib, hayot davomida deyarli o'zgarmaydi?",
+            "options": [
+              {
+                "A": "irsiy reflekslar",
+                "is_correct": false
+              },
+              {
+                "B": "shartsiz reflekslar",
+                "is_correct": true
+              },
+              {
+                "C": "shartli reflekslar",
+                "is_correct": false
+              },
+              {
+                "D": "orttirilgan reflekslar",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "question": "Qanday reflekslar shartsiz reflekslar deyiladi? 1.ovqatlanish, 2.bilim olish, 3.himoyalanish, 4.hunar o'rganish, 5.chamalash, 6.she'rni yod olish, 7.jinsiy reflekslar",
+            "options": [
+              {
+                "A": "1,2,4,7",
+                "is_correct": false
+              },
+              {
+                "B": "2,3,4,5,6",
+                "is_correct": false
+              },
+              {
+                "C": "1,3,5,7",
+                "is_correct": true
+              },
+              {
+                "D": "1,2,3,4,7",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "question": "Endi tug'ilgan chaqaloqning labiga ona ko'kragining tegishi qanday refleksni hosil qiladi?",
+            "options": [
+              {
+                "A": "tug'ma shartli ovqatlanish refleksini",
+                "is_correct": false
+              },
+              {
+                "B": "tug'ma shartsiz ovqatlanish refleksini",
+                "is_correct": true
+              },
+              {
+                "C": "shartli himoyalanish refleksi",
+                "is_correct": false
+              },
+              {
+                "D": "chamalash refleksini",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "question": "Yo'talish, aksirish, ko'zni yumish, issiq ta'sir etganda qo'lni tortib olish qanday refleks jumlasiga kiradi?",
+            "options": [
+              {
+                "A": "chamalash",
+                "is_correct": false
+              },
+              {
+                "B": "shartli himoyalanish",
+                "is_correct": false
+              },
+              {
+                "C": "instinct",
+                "is_correct": false
+              },
+              {
+                "D": "shartsiz himoyalanish",
+                "is_correct": true
+              }
+            ]
+          },
+          {
+            "question": "Ko'payish jarayoni bilan bog'liq reflekslar nima deyiladi?",
+            "options": [
+              {
+                "A": "chamalash",
+                "is_correct": false
+              },
+              {
+                "B": "shartli jinsiy reflekslar",
+                "is_correct": false
+              },
+              {
+                "C": "shartsiz ovqatlanish",
+                "is_correct": false
+              },
+              {
+                "D": "shartsiz jinsiy reflekslar",
+                "is_correct": true
+              }
+            ]
+          },
+          {
+            "question": "Yangi, notanish ta'sirlovchi ta'sirida yuzaga chiqadigan refleksni aniqlang?",
+            "options": [
+              {
+                "A": "chamalash",
+                "is_correct": true
+              },
+              {
+                "B": "himoyalanish",
+                "is_correct": false
+              },
+              {
+                "C": "shartsiz ovqatlanish",
+                "is_correct": false
+              },
+              {
+                "D": "jinsiy reflekslar",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "question": "Shartsiz reflekslarning reflektor yoyi nimalar orqali o'tadi?",
+            "options": [
+              {
+                "A": "uzunchoq miya orqali",
+                "is_correct": false
+              },
+              {
+                "B": "orqa miya orqali",
+                "is_correct": false
+              },
+              {
+                "C": "uzunchoq va orqa miyadan",
+                "is_correct": false
+              },
+              {
+                "D": "bosh miya sopi va orqa miya",
+                "is_correct": true
+              }
+            ]
+          },
+          {
+            "question": "Nimalar tufayli ichki muhitning doimiyligi saqlanadi, ko'payish sodir bo'ladi, organizmning bir butunligi ta'minlanadi?",
+            "options": [
+              {
+                "A": "instinktlar",
+                "is_correct": false
+              },
+              {
+                "B": "himoyalanish",
+                "is_correct": false
+              },
+              {
+                "C": "shartsiz reflekslar",
+                "is_correct": true
+              },
+              {
+                "D": "shartli reflekslar",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "question": "Oliy nerv faoliyatiga tegishli tushunchalar va ularga xos belgilarni juftlab yozing: A - oliy nerv faoliyati, В - shartli reflekslar, D - shartsiz reflekslar, E - shartsiz reflekslarning reflektor yoyi, F - shartsiz reflekslarning hosil bo'lishi; 1 - katta yarimsharlar po'stlog'i ishtiroki shart emas, 2 - hamma uchun umumiy, hayot davomida o'zgarmaydi, 3 - bosh miya sopi va orqa miya orqali o'tadi, 4 - hayot davomida shakllanadi, har bir organizmda o'ziga xos bo'ladi, 5 - organizm bilan tashqi muhit o'rtasidagi munosabatlarni ta'minlaydi.",
+            "options": [
+              {
+                "A": "A-5, B-1, D-2, E-3, F-4",
+                "is_correct": false
+              },
+              {
+                "B": "A-5, B-4, D-2, E-3, F-1",
+                "is_correct": true
+              },
+              {
+                "C": "A-5, B-4, D-1, E-3, F-2",
+                "is_correct": false
+              },
+              {
+                "D": "A-3, B-4, D-5, E-1, F-2",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "question": "Shartli reflekslar va ular uchun xos belgilarni jufdab ko'rsating: A - ovqadanish, В - himoyalanish, D - chamalash, E - jinsiy reflekslar, 1 - ko'payish bilan bog'liq, 2 - bola labiga so'rg'ich tekkanda paydo bo'ladi, 3 - yo'talish, aksirish, ko'zni yumish kiradi, 4 - notanish ta'sirlovchi ta'sirida yuzaga chiqadi.",
+            "options": [
+              {
+                "A": "A-3, B-2, D-4, E-1",
+                "is_correct": false
+              },
+              {
+                "B": "A-1, B-3, D-4, E-2",
+                "is_correct": false
+              },
+              {
+                "C": "A-2, B-3, D-4, E-1",
+                "is_correct": true
+              },
+              {
+                "D": "A-4, B-3, D-2, E-1",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "question": "Ovqadanish shartsiz refleksi refleks yoyi yo'lini tartib bilan ko'rsating: A - so'lak ajratish markazi, uzunchoq miya, В - sezuvchi nervlar, D - so'lak bezlari, E - ta'm bilish retseptorlari, F - harakatlantiruvchi nervlar.",
+            "options": [
+              {
+                "A": "1-F, 2-B, 3-A, 4-E, 5-D",
+                "is_correct": false
+              },
+              {
+                "B": "1-E, 2-D, 3-A, 4-F, 5-B",
+                "is_correct": false
+              },
+              {
+                "C": "1-A, 2-B, 3-E, 4-F, 5-D",
+                "is_correct": false
+              },
+              {
+                "D": "1-E, 2-B, 3-A, 4-F, 5-D",
+                "is_correct": true
+              }
+            ]
+          }
+    ]
+  }

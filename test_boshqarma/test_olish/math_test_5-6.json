@@ -1,0 +1,523 @@
+{"questions":[
+  {
+    "question": "Vagonda 50 qop guruch va 200 qop un yuklandi. Bir qop guruch 80kg, bir qop unning massasi bir qop guruch massasidan 10 kg yengil bo'lsa, Vagonda qancha yuk bor?",
+    "image": null,
+    "options": [
+      {
+        "A": "18000",
+        "image": null,
+        "is_correct": true
+      },
+      {
+        "B": "14400",
+        "image": null,
+        "is_correct": false
+      },
+      {
+        "C": "600",
+        "image": null,
+        "is_correct": false
+      },
+      {
+        "D": "TJY",
+        "image": null,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "3t kunjutdan 1450kg, kunjut moyi chiqadi. 30 t kunjutdan qancha moy chiqadi?",
+    "image": null,
+    "options": [
+      {
+        "A": "1450",
+        "image": null,
+        "is_correct": false
+      },
+      {
+        "B": "14400",
+        "image": null,
+        "is_correct": false
+      },
+      {
+        "C": "14500",
+        "image": null,
+        "is_correct": true
+      },
+      {
+        "D": "TJY",
+        "image": null,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Tenglamani yeching. $8550:(957-x)=18$. $x=?$",
+    "image": null,
+    "options": [
+      {
+        "A": "482",
+        "image": null,
+        "is_correct": true
+      },
+      {
+        "B": "453",
+        "image": null,
+        "is_correct": false
+      },
+      {
+        "C": "488",
+        "image": null,
+        "is_correct": false
+      },
+      {
+        "D": "375",
+        "image": null,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "777 va 444 sonlarini yig'indisini 30 ga ko'paytmasini toping.",
+    "image": null,
+    "options": [
+      {
+        "A": "36630",
+        "image": null,
+        "is_correct": true
+      },
+      {
+        "B": "36200",
+        "image": null,
+        "is_correct": false
+      },
+      {
+        "C": "63360",
+        "image": null,
+        "is_correct": false
+      },
+      {
+        "D": "TJY",
+        "image": null,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "EKUK(25,50)=?",
+    "image": null,
+    "options": [
+      {
+        "A": "25",
+        "image": null,
+        "is_correct": false
+      },
+      {
+        "B": "100",
+        "image": null,
+        "is_correct": false
+      },
+      {
+        "C": "50",
+        "image": null,
+        "is_correct": true
+      },
+      {
+        "D": "5",
+        "image": null,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Hisoblang $122160:6:40$",
+    "image": null,
+    "options": [
+      {
+        "A": "405",
+        "image": null,
+        "is_correct": false
+      },
+      {
+        "B": "489",
+        "image": null,
+        "is_correct": false
+      },
+      {
+        "C": "5090",
+        "image": null,
+        "is_correct": false
+      },
+      {
+        "D": "509",
+        "image": null,
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "question": "Hisoblang $1800 +(360 \\times 40-1600):200$",
+    "image": null,
+    "options": [
+      {
+        "A": "2440",
+        "image": null,
+        "is_correct": false
+      },
+      {
+        "B": "1865",
+        "image": null,
+        "is_correct": false
+      },
+      {
+        "C": "1864",
+        "image": null,
+        "is_correct": true
+      },
+      {
+        "D": "2246",
+        "image": null,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "To'g'ri to'rtburchakning eni 6 sm, bo'yi 2 marta uzun. To'g'ri to'rtburchakning yuzini toping?",
+    "image": null,
+    "options": [
+      {
+        "A": "144",
+        "image": null,
+        "is_correct": false
+      },
+      {
+        "B": "72",
+        "image": null,
+        "is_correct": true
+      },
+      {
+        "C": "45",
+        "image": null,
+        "is_correct": false
+      },
+      {
+        "D": "48",
+        "image": null,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Tengsizlikning tub yechimlari sonini toping: $50 < x < 100$",
+    "image": null,
+    "options": [
+      {
+        "A": "4",
+        "image": null,
+        "is_correct": false
+      },
+      {
+        "B": "10",
+        "image": null,
+        "is_correct": true
+      },
+      {
+        "C": "9",
+        "image": null,
+        "is_correct": false
+      },
+      {
+        "D": "50",
+        "image": null,
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sinf bo'yi 12 m, sinfning yuzi 72 m$^2$ bo'lsa, sinf enini toping",
+    "image": null,
+    "options": [
+      {
+        "A": "6",
+        "image": null,
+        "is_correct": true
+      },
+      {
+        "B": "24",
+        "image": null,
+        "is_correct": false
+      },
+      {
+        "C": "13",
+        "image": null,
+        "is_correct": false
+      },
+      {
+        "D": "12",
+        "image": null,
+        "is_correct": false
+      }
+    ]
+  },
+    {
+      "question": "$12 \\times c+96=192$. $c=?$",
+      "image": null,
+      "options": [
+        {
+          "A": "16",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "8",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "C": "14",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "15",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "$280:7=b-18$. $b=?$",
+      "image": null,
+      "options": [
+        {
+          "A": "58",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "B": "56",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "59",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "60",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Bir sonni 4 ga ko'paytirib 150 sonini qo'shsak 270 sono hosil boladi. Sonni toping?",
+      "image": null,
+      "options": [
+        {
+          "A": "40",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "30",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "C": "50",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "60",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "100 sonini hosil qilish uchun 4 ta qaysi sonni qoshish kerak?",
+      "image": null,
+      "options": [
+        {
+          "A": "40",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "96",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "25",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "D": "20",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "$(580-x):4=100$",
+      "image": null,
+      "options": [
+        {
+          "A": "180",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "200",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "C": "210",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "TJY",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "O`rik quritilganda undan $\\frac{7}{20}$ qism turshak olinadi. 260 kg o`rikdan qancha qism turshak olinadi?",
+      "image": null,
+      "options": [
+        {
+          "A": "300",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "73",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "91",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "91",
+          "image": null,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "$(6!-4!)/5!$ Hisoblang.",
+      "image": null,
+      "options": [
+        {
+          "A": "$\\frac{2}{5}$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "$\\frac{29}{5}$",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "C": "6",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "345",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "1,2,3,4,\\ldots,50 gacha sonlarning raqamlar yig'indisini toping.",
+      "image": null,
+      "options": [
+        {
+          "A": "330",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "B": "325",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "340",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "250",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "256 ni 75\\% ni toping.",
+      "image": null,
+      "options": [
+        {
+          "A": "129",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "192",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "C": "1920",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "365",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Sayyoh mo`ljallangan yo`lning 36\\% ini o`tgach, hisoblab ko`rsa, yo`lning yarmini o`tish ucnun yana 7 km yo`l yurishi kerak ekan. Mo`ljallangan yo`l necha km?",
+      "image": null,
+      "options": [
+        {
+          "A": "350",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "70",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "50",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "D": "87,5",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    }
+]
+}

@@ -1,0 +1,497 @@
+{"questions":[
+    {
+      "question": "25^{15} + 16^{27} + 372 \\text{ yig'indi qanday raqam bilan tugaydi?}",
+      "image": null,
+      "options": [
+        {
+          "A": "5",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "3",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "C": "8",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "6",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Natural sonlar qatori berilgan javobni toping.",
+      "image": null,
+      "options": [
+        {
+          "A": "1, 2, 3, 4, 5, ...",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "B": "-1, -2, -3, -4, -5, ...",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "0, 1, 2, 3, 4, ...",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "0, 2, 4, 6, 8, ...",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Amallarni bajaring: (-16+4)\\times(-3)+(-2)\\times(-15+20)",
+      "image": null,
+      "options": [
+        {
+          "A": "26",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "B": "-46",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "14",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "4",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Hisoblang: $\\frac{39}{5} - \\frac{14}{5}$",
+      "image": null,
+      "options": [
+        {
+          "A": "$5$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "$6$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "$4$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "$5$",
+          "image": null,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Matematikadan nazorat ishida 23 nafar o'quvchi \"4\" va \"5\" baho, 7 nafar o'quvchi \"3\" va 2 nafar o'quvchi \"2\" baho oldi. \"3\" baho olgan o'quvchilar sonining jami o'quvchilar soniga nisbatini toping.",
+      "image": null,
+      "options": [
+        {
+          "A": "$\\frac{7}{23}$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "$\\frac{26}{32}$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "$\\frac{7}{32}$",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "D": "$\\frac{2}{32}$",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tenglamani yeching: $5x - 8 = 2$",
+      "image": null,
+      "options": [
+        {
+          "A": "1",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "2",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "C": "3",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "4",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Hisoblang: $7,2 - 4,5$",
+      "image": null,
+      "options": [
+        {
+          "A": "2,7",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "B": "3,5",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "-4,3",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "-2,7",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quyidagi tengliklardan nechtasi proporsiya bo'ladi? $1) \\frac{3}{15} = \\frac{2}{10}$ $2) \\frac{2}{10} = \\frac{4}{20}$ $3) \\frac{4}{16} = \\frac{5}{25}$ $4) \\frac{6}{30} = \\frac{3}{15}$",
+      "image": null,
+      "options": [
+        {
+          "A": "1",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "2",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "C": "3",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "4",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Tenglamani yeching: $\\frac{x - 4}{5} = 4$",
+      "image": null,
+      "options": [
+        {
+          "A": "15",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "$\\frac{4}{5}$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "$\\frac{5}{4}$",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "D": "20",
+          "image": null,
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Mototsiklchi bir kunda ma'lum masofani bosib o'tdi. Bu masofaning 4 foizi 3,2 km bo'lsa, butun masofani toping.",
+      "image": null,
+      "options": [
+        {
+          "A": "800 m",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "B": "80 m",
+          "image": null,
+          "is_correct": false
+        },
+        {
+          "C": "80 km",
+          "image": null,
+          "is_correct": true
+        },
+        {
+          "D": "168 km",
+          "image": null,
+          "is_correct": false
+        }
+      ]
+    },
+        {
+          "question": "Nechta raqam bor?",
+          "image": null,
+          "options": [
+            {
+              "A": "9 ta",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "B": "cheksiz",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "C": "10 ta",
+              "image": null,
+              "is_correct": true
+            },
+            {
+              "D": "16 ta",
+              "image": null,
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question": "84000 sonini kanonik ko'rinishini toping.",
+          "image": null,
+          "options": [
+            {
+              "A": "$2^4 \\cdot 3 \\cdot 5^2 \\cdot 7$",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "B": "$2^3 \\cdot 3 \\cdot 5^3 \\cdot 7$",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "C": "$2^5 \\cdot 3 \\cdot 5^2 \\cdot 7$",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "D": "$2^4 \\cdot 3 \\cdot 5^3 \\cdot 7$",
+              "image": null,
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question": "Tub sonlar qatorini tanlang.\n1) 2, 3, 5, 7, 17, 71, 101, 1001\n2) 19, 23, 31, 47, 59, 289, 301\n3) 11, 13, 53, 61, 67, 221\n4) 29, 37, 41, 73, 89, 97, 103",
+          "image": null,
+          "options": [
+            {
+              "A": "1;2;3;4",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "B": "4",
+              "image": null,
+              "is_correct": true
+            },
+            {
+              "C": "2;3",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "D": "1;4",
+              "image": null,
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question": "$5 \\cdot 2^2$",
+          "image": null,
+          "options": [
+            {
+              "A": "20",
+              "image": null,
+              "is_correct": true
+            },
+            {
+              "B": "6",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "C": "16",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "D": "24",
+              "image": null,
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question": "$1 + 2 + 3 + 4 + ... + 11$ yig'indini toping.",
+          "image": null,
+          "options": [
+            {
+              "A": "60",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "B": "66",
+              "image": null,
+              "is_correct": true
+            },
+            {
+              "C": "59",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "D": "86",
+              "image": null,
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question": "$12 \\cdot 3$",
+          "image": null,
+          "options": [
+            {
+              "A": "42",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "B": "30",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "C": "36",
+              "image": null,
+              "is_correct": true
+            },
+            {
+              "D": "7",
+              "image": null,
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question": "$34 - 17$",
+          "image": null,
+          "options": [
+            {
+              "A": "1",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "B": "19",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "C": "71",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "D": "17",
+              "image": null,
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "question": "72 va 96 sonlarining EKUKini EKUBiga nisbatini toping.",
+          "image": null,
+          "options": [
+            {
+              "A": "10",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "B": "9",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "C": "12",
+              "image": null,
+              "is_correct": true
+            },
+            {
+              "D": "0,5",
+              "image": null,
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "question": "100476000006+256789256789 yig'indining oxirgi raqamini toping.",
+          "image": null,
+          "options": [
+            {
+              "A": "6",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "B": "7",
+              "image": null,
+              "is_correct": false
+            },
+            {
+              "C": "8",
+              "image": null,
+              "is_correct": true
+            },
+            {
+              "D": "9",
+              "image": null,
+              "is_correct": false
+            }
+          ]
+        }
+  ]
+}

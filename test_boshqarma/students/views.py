@@ -17,6 +17,7 @@ from users.utils import username_generator
 from django.shortcuts import get_object_or_404
 from corecode.models import School
 import pandas as pd
+import json
 
 
 class StudentDetailView(generics.RetrieveAPIView):
@@ -44,27 +45,35 @@ class StudentTestHistoryView(APIView):
         serializer = TestHistorySerializer(test_sessions, many=True)
         return Response(serializer.data, status=200)
 
+
+from myclick.models import UserSessionAccess
 class AddStudentsByList(APIView):
     def get(self, request, school_id):
-        df = pd.read_excel("/home/itclastertest/IT_KLASTER/klaster/students/8-sinf.xlsx")
-        for i in range(2, 200):
-
-            family_name = df['Unnamed: 2'][i].split(" ")[0]
-            first_name = df['Unnamed: 2'][i].split(" ")[1]
-            try:
-                other_name = df['Unnamed: 2'][i].split(" ")[2] + " " + df['Unnamed: 2'][i].split(" ")[3]
-            except:
-                other_name = df['Unnamed: 2'][i].split(" ")[2]
-            class_name = df['Unnamed: 1'][i].replace("-", " ")
+        # df = pd.read_excel("/home/itclastertest/IT_KLASTER/klaster/students/8-sinf.xlsx")
+        df = pd.read_excel("students/aloqa.xlsx")
+        with open("students/passwords.json", "r") as f:
+            data = json.load(f)
+        for i in range(5):
+            class_name = 'Aloqabank'
+            # family_name = df['Unnamed: 2'][i].split(" ")[0]
+            first_name = df['Ismi'][i].split(" ")[0]
+            phone_number = "+" + str(df['Telefon raqami'][i])
             school = School.objects.get(id=school_id)
             class_, _ = Class.objects.get_or_create(name = class_name, school=school)
             username=username_generator(first_name.lower())
             user = User.objects.create(username=username, email=username+"@mail.ru")
-            user.set_password(username)
+            user.set_password(phone_number)
             user.save()
-            
-            Student.objects.create(user=user, first_name=first_name, last_name=family_name,
-                                   other_name=other_name,
+            UserSessionAccess.objects.create(
+                user=user,
+                session_id=1  # Assuming session with ID 1 exists
+            )
+            new_user = {"username": username, "password": phone_number}
+            data["users"].append(new_user)
+            Student.objects.create(user=user, first_name=first_name, phone_number=phone_number,
                                    current_class=class_)
+
+        with open("students/passwords.json", "w") as f:
+            json.dump(data, f, indent=4)
 
         return Response({"detail":"detail"}, status=200)

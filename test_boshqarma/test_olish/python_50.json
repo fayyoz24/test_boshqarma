@@ -1,0 +1,424 @@
+{
+  "questions": [
+    {
+      "question": "Python dasturlash tili nima uchun ishlatiladi?",
+      "image": null,
+      "options": [
+        { "A": "Faqat o‘yinlar yaratish uchun", "image": null, "is_correct": false },
+        { "B": "Ilmiy hisob-kitob, web dasturlash va avtomatlashtirish uchun", "image": null, "is_correct": true },
+        { "C": "Faqat mobil dasturlar uchun", "image": null, "is_correct": false },
+        { "D": "Faqat grafik dizayn uchun", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi qatorlardan qaysi biri Python fayl kengaytmasi?",
+      "image": null,
+      "options": [
+        { "A": ".txt", "image": null, "is_correct": false },
+        { "B": ".py", "image": null, "is_correct": true },
+        { "C": ".html", "image": null, "is_correct": false },
+        { "D": ".exe", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi buyruq nima qiladi? print(\"Hello World\")",
+      "image": null,
+      "options": [
+        { "A": "“Hello World” ni ekranga chiqaradi", "image": null, "is_correct": true },
+        { "B": "O‘zgaruvchi yaratadi", "image": null, "is_correct": false },
+        { "C": "Foydalanuvchidan ma’lumot so‘raydi", "image": null, "is_correct": false },
+        { "D": "Hech narsa qilmaydi", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Python’da izoh (komment) qanday yoziladi?",
+      "image": null,
+      "options": [
+        { "A": "//", "image": null, "is_correct": false },
+        { "B": "<!-- -->", "image": null, "is_correct": false },
+        { "C": "#", "image": null, "is_correct": true },
+        { "D": "/* */", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi kodda x ning qiymati nechaga teng bo‘ladi? x = 5; x = x + 2",
+      "image": null,
+      "options": [
+        { "A": "5", "image": null, "is_correct": false },
+        { "B": "7", "image": null, "is_correct": true },
+        { "C": "2", "image": null, "is_correct": false },
+        { "D": "Xato", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi qatorlardan qaysi biri to‘g‘ri o‘zgaruvchi nomi emas?",
+      "image": null,
+      "options": [
+        { "A": "my_var", "image": null, "is_correct": false },
+        { "B": "_value", "image": null, "is_correct": false },
+        { "C": "2number", "image": null, "is_correct": true },
+        { "D": "userName", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "type(5) natijasi nima bo‘ladi?",
+      "image": null,
+      "options": [
+        { "A": "<class 'str'>", "image": null, "is_correct": false },
+        { "B": "<class 'int'>", "image": null, "is_correct": true },
+        { "C": "<class 'float'>", "image": null, "is_correct": false },
+        { "D": "<class 'bool'>", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi kod nimani chiqaradi? a = 'Hello'; b = 'World'; print(a + b)",
+      "image": null,
+      "options": [
+        { "A": "Hello + World", "image": null, "is_correct": false },
+        { "B": "Hello World", "image": null, "is_correct": false },
+        { "C": "HelloWorld", "image": null, "is_correct": true },
+        { "D": "Xato", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi kodda nechta print bajariladi? print('A'); print('B'); print('C')",
+      "image": null,
+      "options": [
+        { "A": "1", "image": null, "is_correct": false },
+        { "B": "2", "image": null, "is_correct": false },
+        { "C": "3", "image": null, "is_correct": true },
+        { "D": "0", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "input() funksiyasi nima qiladi?",
+      "image": null,
+      "options": [
+        { "A": "Ekranga ma’lumot chiqaradi", "image": null, "is_correct": false },
+        { "B": "Foydalanuvchidan ma’lumot oladi", "image": null, "is_correct": true },
+        { "C": "O‘zgaruvchi e’lon qiladi", "image": null, "is_correct": false },
+        { "D": "Dasturni to‘xtatadi", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi kod natijasi: x = 10; if x > 5: print('Katta')",
+      "image": null,
+      "options": [
+        { "A": "Katta", "image": null, "is_correct": true },
+        { "B": "Xato", "image": null, "is_correct": false },
+        { "C": "Hech narsa chiqmaydi", "image": null, "is_correct": false },
+        { "D": "5", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "== operatori nima qiladi?",
+      "image": null,
+      "options": [
+        { "A": "Qo‘shadi", "image": null, "is_correct": false },
+        { "B": "Taqqoslaydi", "image": null, "is_correct": true },
+        { "C": "Ajratadi", "image": null, "is_correct": false },
+        { "D": "O‘chiradi", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "and, or, not operatorlari qanday operatorlar?",
+      "image": null,
+      "options": [
+        { "A": "Arifmetik", "image": null, "is_correct": false },
+        { "B": "Mantiqiy", "image": null, "is_correct": true },
+        { "C": "Solishtirish", "image": null, "is_correct": false },
+        { "D": "Bitwise", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi kodda nima chiqadi?\nx = 3\nif x == 5:\n    print('A')\nelse:\n    print('B')",
+      "image": null,
+      "options": [
+        { "A": "A", "image": null, "is_correct": false },
+        { "B": "B", "image": null, "is_correct": true },
+        { "C": "3", "image": null, "is_correct": false },
+        { "D": "Xato", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi kod natijasi:\na = 5\nb = 10\nif a < b:\n    print('True')\nelse:\n    print('False')",
+      "image": null,
+      "options": [
+        { "A": "True", "image": null, "is_correct": true },
+        { "B": "False", "image": null, "is_correct": false },
+        { "C": "Xato", "image": null, "is_correct": false },
+        { "D": "Hech narsa", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "if sharti bajarilmasa, else ishlaydimi?",
+      "image": null,
+      "options": [
+        { "A": "Ha", "image": null, "is_correct": true },
+        { "B": "Yo‘q", "image": null, "is_correct": false },
+        { "C": "Har doim", "image": null, "is_correct": false },
+        { "D": "Faqat input bo‘lsa", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi ifoda natijasi:\nx = 2\ny = 5\nprint(x > 1 and y < 10)",
+      "image": null,
+      "options": [
+        { "A": "True", "image": null, "is_correct": true },
+        { "B": "False", "image": null, "is_correct": false },
+        { "C": "None", "image": null, "is_correct": false },
+        { "D": "Xato", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi kodda nechta print chiqadi?\nif True:\n    print('A')\nelse:\n    print('B')",
+      "image": null,
+      "options": [
+        { "A": "1", "image": null, "is_correct": true },
+        { "B": "2", "image": null, "is_correct": false },
+        { "C": "0", "image": null, "is_correct": false },
+        { "D": "Xato", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi ifodaning natijasi?\n5 > 3 or 2 > 4",
+      "image": null,
+      "options": [
+        { "A": "True", "image": null, "is_correct": true },
+        { "B": "False", "image": null, "is_correct": false },
+        { "C": "Xato", "image": null, "is_correct": false },
+        { "D": "None", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi kod necha marta “Hi” chiqaradi?\nfor i in range(3):\n    print('Hi')",
+      "image": null,
+      "options": [
+        { "A": "1", "image": null, "is_correct": false },
+        { "B": "2", "image": null, "is_correct": false },
+        { "C": "3", "image": null, "is_correct": true },
+        { "D": "0", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi kod natijasi:\nfor i in range(2,5):\n    print(i)",
+      "image": null,
+      "options": [
+        { "A": "2 3 4", "image": null, "is_correct": true },
+        { "B": "2 3 4 5", "image": null, "is_correct": false },
+        { "C": "3 4 5", "image": null, "is_correct": false },
+        { "D": "Xato", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "break operatori nima qiladi?",
+      "image": null,
+      "options": [
+        { "A": "Siklni davom ettiradi", "image": null, "is_correct": false },
+        { "B": "Siklni to‘xtatadi", "image": null, "is_correct": true },
+        { "C": "Siklni boshidan boshlaydi", "image": null, "is_correct": false },
+        { "D": "Faqat for da ishlaydi", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "continue operatori nima qiladi?",
+      "image": null,
+      "options": [
+        { "A": "Siklni butunlay to‘xtatadi", "image": null, "is_correct": false },
+        { "B": "Navbatdagi iteratsiyaga o‘tadi", "image": null, "is_correct": true },
+        { "C": "Kodning qolgan qismini o‘chiradi", "image": null, "is_correct": false },
+        { "D": "Hech narsa qilmaydi", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "for sikli qaysi turdagi ma’lumotlar ustida ishlaydi?",
+      "image": null,
+      "options": [
+        { "A": "Faqat int", "image": null, "is_correct": false },
+        { "B": "Faqat float", "image": null, "is_correct": false },
+        { "C": "Iteratsiya qilinadigan ma’lumotlar (list, tuple, string)", "image": null, "is_correct": true },
+        { "D": "Faqat string", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Funksiya e’lon qilish uchun qaysi so‘z ishlatiladi?",
+      "image": null,
+      "options": [
+        { "A": "func", "image": null, "is_correct": false },
+        { "B": "def", "image": null, "is_correct": true },
+        { "C": "function", "image": null, "is_correct": false },
+        { "D": "lambda", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi funksiya chaqirilganda nima chiqadi?\ndef salom():\n    print('Salom!')\nsalom()",
+      "image": null,
+      "options": [
+        { "A": "Hech narsa chiqmaydi", "image": null, "is_correct": false },
+        { "B": "Salom!", "image": null, "is_correct": true },
+        { "C": "Xato", "image": null, "is_correct": false },
+        { "D": "Funksiya nomi", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Funksiya qiymat qaytarsa, u qanday so‘z bilan tugaydi?",
+      "image": null,
+      "options": [
+        { "A": "print", "image": null, "is_correct": false },
+        { "B": "end", "image": null, "is_correct": false },
+        { "C": "return", "image": null, "is_correct": true },
+        { "D": "stop", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi kodda x ning qiymati?\ndef add(a,b):\n    return a+b\nx = add(2,3)",
+      "image": null,
+      "options": [
+        { "A": "2", "image": null, "is_correct": false },
+        { "B": "3", "image": null, "is_correct": false },
+        { "C": "5", "image": null, "is_correct": true },
+        { "D": "Xato", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi kod natijasi:\ndef f():\n    return 10\nprint(f())",
+      "image": null,
+      "options": [
+        { "A": "f()", "image": null, "is_correct": false },
+        { "B": "10", "image": null, "is_correct": true },
+        { "C": "return", "image": null, "is_correct": false },
+        { "D": "Xato", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi kodda my_list turi qanday?\nmy_list = [1,2,3]",
+      "image": null,
+      "options": [
+        { "A": "tuple", "image": null, "is_correct": false },
+        { "B": "list", "image": null, "is_correct": true },
+        { "C": "dict", "image": null, "is_correct": false },
+        { "D": "set", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi buyruq nima qiladi?\nmy_list.append(4)",
+      "image": null,
+      "options": [
+        { "A": "Element qo‘shadi", "image": null, "is_correct": true },
+        { "B": "Element o‘chiradi", "image": null, "is_correct": false },
+        { "C": "Listni tozalaydi", "image": null, "is_correct": false },
+        { "D": "Xato", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "len([1,2,3,4]) natijasi?",
+      "image": null,
+      "options": [
+        { "A": "3", "image": null, "is_correct": false },
+        { "B": "4", "image": null, "is_correct": true },
+        { "C": "5", "image": null, "is_correct": false },
+        { "D": "Xato", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi kod natijasi:\nnames = ['Ali', 'Vali']\nprint(names[1])",
+      "image": null,
+      "options": [
+        { "A": "Ali", "image": null, "is_correct": false },
+        { "B": "Vali", "image": null, "is_correct": true },
+        { "C": "Xato", "image": null, "is_correct": false },
+        { "D": "None", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi kodda pop() nima qiladi?\nmy_list.pop()",
+      "image": null,
+      "options": [
+        { "A": "Oxirgi elementni o‘chiradi", "image": null, "is_correct": true },
+        { "B": "Birinchi elementni o‘chiradi", "image": null, "is_correct": false },
+        { "C": "Hammasini o‘chiradi", "image": null, "is_correct": false },
+        { "D": "Xato", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Python’da satr (string) qanday belgilar bilan yoziladi?",
+      "image": null,
+      "options": [
+        { "A": "\" \" yoki ' '", "image": null, "is_correct": true },
+        { "B": "< >", "image": null, "is_correct": false },
+        { "C": "{ }", "image": null, "is_correct": false },
+        { "D": "[ ]", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi ifoda natijasi:\n'Hi' * 3",
+      "image": null,
+      "options": [
+        { "A": "\"Hi3\"", "image": null, "is_correct": false },
+        { "B": "\"HiHiHi\"", "image": null, "is_correct": true },
+        { "C": "\"3Hi\"", "image": null, "is_correct": false },
+        { "D": "Xato", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "in operatori nima uchun ishlatiladi?",
+      "image": null,
+      "options": [
+        { "A": "Qo‘shish uchun", "image": null, "is_correct": false },
+        { "B": "Element mavjudligini tekshirish uchun", "image": null, "is_correct": true },
+        { "C": "Ro‘yxat yaratish uchun", "image": null, "is_correct": false },
+        { "D": "Chiqarish uchun", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "int('5') nimani qaytaradi?",
+      "image": null,
+      "options": [
+        { "A": "\"5\"", "image": null, "is_correct": false },
+        { "B": "5", "image": null, "is_correct": true },
+        { "C": "Xato", "image": null, "is_correct": false },
+        { "D": "float", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi kodda nechta element bor?\ndata = [1, [2,3], 4]",
+      "image": null,
+      "options": [
+        { "A": "3", "image": null, "is_correct": true },
+        { "B": "4", "image": null, "is_correct": false },
+        { "C": "5", "image": null, "is_correct": false },
+        { "D": "2", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "dict ma’lumot turi nima?",
+      "image": null,
+      "options": [
+        { "A": "Ro‘yxat", "image": null, "is_correct": false },
+        { "B": "Lug‘at (kalit-qiymat juftligi)", "image": null, "is_correct": true },
+        { "C": "To‘plam", "image": null, "is_correct": false },
+        { "D": "Funksiya", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi kod natijasi:\ninfo = {'name': 'Ali', 'age': 15}\nprint(info['name'])",
+      "image": null,
+      "options": [
+        { "A": "Ali", "image": null, "is_correct": true },
+        { "B": "age", "image": null, "is_correct": false },
+        { "C": "name", "image": null, "is_correct": false },
+        { "D": "Xato", "image": null, "is_correct": false }
+      ]
+    },
+    {
+      "question": "Quyidagi kodda xato bormi?\nx = '5'\ny = 2\nprint(x + y)",
+      "image": null,
+      "options": [
+        { "A": "Ha, tur mos emas", "image": null, "is_correct": true },
+        { "B": "Yo‘q, 7 chiqadi", "image": null, "is_correct": false },
+        { "C": "Yo‘q, 52 chiqadi", "image": null, "is_correct": false },
+        { "D": "None", "image": null, "is_correct": false }
+      ]
+    }
+  ]
+}

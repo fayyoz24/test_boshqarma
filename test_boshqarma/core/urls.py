@@ -54,4 +54,3 @@ urlpatterns = [
     path('test/', include("test_olish.urls")),
     path('myclick/', include("myclick.urls")),
 ]
-from django.urls import path

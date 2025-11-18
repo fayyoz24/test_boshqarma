@@ -1,0 +1,332 @@
+[
+  {
+    "question": "*args ning vazifasi nima?",
+    "image": null,
+    "options": [
+      { "A": "Funksiyaga kalit so‘zli argumentlarni uzatadi", "image": null, "is_correct": false },
+      { "B": "Funksiyaga istalgancha oddiy argumentlarni uzatadi", "image": null, "is_correct": true },
+      { "C": "Funksiyadan qiymat qaytaradi", "image": null, "is_correct": false },
+      { "D": "Faqat list qabul qiladi", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "deepcopy() bilan copy() farqi nimada?",
+    "image": null,
+    "options": [
+      { "A": "copy() chuqur nusxa oladi", "image": null, "is_correct": false },
+      { "B": "deepcopy() o‘zgaruvchilarni o‘zgartira olmaydi", "image": null, "is_correct": false },
+      { "C": "deepcopy() ichki obyektlarni ham nusxalaydi", "image": null, "is_correct": true },
+      { "D": "Ikkalasi ham bir xil", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "@classmethod qanday metod?",
+    "image": null,
+    "options": [
+      { "A": "Obyektga bog‘liq", "image": null, "is_correct": false },
+      { "B": "Klassga bog‘liq", "image": null, "is_correct": true },
+      { "C": "Static metod", "image": null, "is_correct": false },
+      { "D": "Abstract metod", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "Python’dagi GIL nimaga sabab bo‘ladi?",
+    "image": null,
+    "options": [
+      { "A": "Multi-threading tez ishlaydi", "image": null, "is_correct": false },
+      { "B": "Bir vaqtning o‘zida faqat bitta thread Python kodini bajaradi", "image": null, "is_correct": true },
+      { "C": "Parallel CPU load oshadi", "image": null, "is_correct": false },
+      { "D": "GIL yo‘q", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "Generatorlar qanday yaratiladi?",
+    "image": null,
+    "options": [
+      { "A": "yield yordamida", "image": null, "is_correct": true },
+      { "B": "return yordamida", "image": null, "is_correct": false },
+      { "C": "async yordamida", "image": null, "is_correct": false },
+      { "D": "lambda yordamida", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "Decoratorga parametr uzatish uchun nima kerak?",
+    "image": null,
+    "options": [
+      { "A": "Ikki qavat funksiya", "image": null, "is_correct": false },
+      { "B": "Uch qavat funksiya", "image": null, "is_correct": true },
+      { "C": "Klass kerak", "image": null, "is_correct": false },
+      { "D": "Parametr uzatib bo‘lmaydi", "image": null, "is_correct": false }
+    ]
+  },
+
+
+  {
+    "question": "__slots__ nima qiladi?",
+    "image": null,
+    "options": [
+      { "A": "Klassga ko‘p atribut qo‘shadi", "image": null, "is_correct": false },
+      { "B": "Atributlarni faqat belgilanganlar bilan cheklaydi", "image": null, "is_correct": true },
+      { "C": "Xotirani ko‘paytiradi", "image": null, "is_correct": false },
+      { "D": "Kod tezligini kamaytiradi", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "Generator expression bilan list comprehension farqi?",
+    "image": null,
+    "options": [
+      { "A": "List comprehension generator yaratadi", "image": null, "is_correct": false },
+      { "B": "Generator expression kamroq xotira ishlatadi", "image": null, "is_correct": true },
+      { "C": "Generator expression list qaytaradi", "image": null, "is_correct": false },
+      { "D": "Ikkalasi bir xil", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "Quyidagilardan qaysi biri mutable?",
+    "image": null,
+    "options": [
+      { "A": "Tuple", "image": null, "is_correct": false },
+      { "B": "String", "image": null, "is_correct": false },
+      { "C": "List", "image": null, "is_correct": true },
+      { "D": "Int", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "Context manager nima uchun ishlatiladi?",
+    "image": null,
+    "options": [
+      { "A": "Parallel kod yozish", "image": null, "is_correct": false },
+      { "B": "Resurslarni avtomatik boshqarish (open/close)", "image": null, "is_correct": true },
+      { "C": "Memory profiling", "image": null, "is_correct": false },
+      { "D": "Dekorator yaratish", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "try/except'dan keyin qaysi blok ixtiyoriy?",
+    "image": null,
+    "options": [
+      { "A": "except", "image": null, "is_correct": false },
+      { "B": "else", "image": null, "is_correct": true },
+      { "C": "try", "image": null, "is_correct": false },
+      { "D": "hech biri", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "Closure qanday hosil bo‘ladi?",
+    "image": null,
+    "options": [
+      { "A": "Faqat global o‘zgaruvchilar bo‘lsa", "image": null, "is_correct": false },
+      { "B": "Ichki funksiya tashqi o‘zgaruvchilarni eslab qolsa", "image": null, "is_correct": true },
+      { "C": "Faqat lambda bo‘lsa", "image": null, "is_correct": false },
+      { "D": "Closure hosil bo‘lmaydi", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "property decoratorining vazifasi nima?",
+    "image": null,
+    "options": [
+      { "A": "Funksiyani oddiy atributdek chaqirish", "image": null, "is_correct": true },
+      { "B": "Funksiyani delete qilish", "image": null, "is_correct": false },
+      { "C": "Kesh yaratish", "image": null, "is_correct": false },
+      { "D": "Serialize qilish", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "__enter__ va __exit__ qayerda ishlatiladi?",
+    "image": null,
+    "options": [
+      { "A": "Lambda", "image": null, "is_correct": false },
+      { "B": "Thread", "image": null, "is_correct": false },
+      { "C": "Context manager", "image": null, "is_correct": true },
+      { "D": "Random modul", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "Lambda funksiyalarning cheklovi?",
+    "image": null,
+    "options": [
+      { "A": "Bir nechta parametr qabul qilmaydi", "image": null, "is_correct": false },
+      { "B": "Faqat bitta qator bo‘lishi kerak", "image": null, "is_correct": true },
+      { "C": "return ishlatadi", "image": null, "is_correct": false },
+      { "D": "Klass ichida ishlamaydi", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "Dict key bo‘lishi uchun obyekt qanday bo‘lishi kerak?",
+    "image": null,
+    "options": [
+      { "A": "Mutable", "image": null, "is_correct": false },
+      { "B": "Hashable", "image": null, "is_correct": true },
+      { "C": "JSON-serializable", "image": null, "is_correct": false },
+      { "D": "Generator", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "is operatori nima qiladi?",
+    "image": null,
+    "options": [
+      { "A": "Qiymatlarni solishtiradi", "image": null, "is_correct": false },
+      { "B": "Identifikatorlarni solishtiradi", "image": null, "is_correct": true },
+      { "C": "Stringlarni taqqoslaydi", "image": null, "is_correct": false },
+      { "D": "Raqamlarni taqqoslaydi", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "Monkey patching nima?",
+    "image": null,
+    "options": [
+      { "A": "Kod optimizatsiyasi", "image": null, "is_correct": false },
+      { "B": "Runtime’da funksiya/metodni o‘zgartirish", "image": null, "is_correct": true },
+      { "C": "File o‘qish", "image": null, "is_correct": false },
+      { "D": "Kesh yaratish", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "enumerate() nimani qaytaradi?",
+    "image": null,
+    "options": [
+      { "A": "Faqat indeks", "image": null, "is_correct": false },
+      { "B": "Faqat element", "image": null, "is_correct": false },
+      { "C": "Indeks + element juftligini", "image": null, "is_correct": true },
+      { "D": "Dict", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "map() funksiyasi nima qiladi?",
+    "image": null,
+    "options": [
+      { "A": "Elementlarni filterlaydi", "image": null, "is_correct": false },
+      { "B": "Har bir elementga funksiya qo‘llaydi", "image": null, "is_correct": true },
+      { "C": "Listni o‘giradi", "image": null, "is_correct": false },
+      { "D": "Tuple yaratadi", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "Custom exception qanday yaratiladi?",
+    "image": null,
+    "options": [
+      { "A": "Exception'dan meros olish orqali", "image": null, "is_correct": true },
+      { "B": "Oddiy funksiya yozish orqali", "image": null, "is_correct": false },
+      { "C": "raise 404 yozish", "image": null, "is_correct": false },
+      { "D": "Modul ochish", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "await nima qiladi?",
+    "image": null,
+    "options": [
+      { "A": "Funksiyani to‘xtatadi", "image": null, "is_correct": false },
+      { "B": "Sync funksiya chaqiradi", "image": null, "is_correct": false },
+      { "C": "Event loop’da boshqa tasklarni ishlashiga ruxsat beradi", "image": null, "is_correct": true },
+      { "D": "Thread yaratadi", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "__str__ va __repr__ farqi?",
+    "image": null,
+    "options": [
+      { "A": "__repr__ debugging uchun, __str__ user uchun", "image": null, "is_correct": true },
+      { "B": "Ikkalasi bir xil", "image": null, "is_correct": false },
+      { "C": "__str__ debugging uchun", "image": null, "is_correct": false },
+      { "D": "Ikkalasi ishlatilmaydi", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "Descriptor qanday metodlarga ega?",
+    "image": null,
+    "options": [
+      { "A": "__call__", "image": null, "is_correct": false },
+      { "B": "__get__, __set__, __delete__", "image": null, "is_correct": true },
+      { "C": "__init__", "image": null, "is_correct": false },
+      { "D": "__slots__", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "LRU Cache qayerda ishlatiladi?",
+    "image": null,
+    "options": [
+      { "A": "Taqror hisoblashlarni oldini olish uchun", "image": null, "is_correct": true },
+      { "B": "Fayl o‘chirish", "image": null, "is_correct": false },
+      { "C": "Thread management", "image": null, "is_correct": false },
+      { "D": "Asinxron task yaratish", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "Typing (type hints) nimaga yordam beradi?",
+    "image": null,
+    "options": [
+      { "A": "Kod tezligini oshiradi", "image": null, "is_correct": false },
+      { "B": "Static analysis va aniq API yaratishga", "image": null, "is_correct": true },
+      { "C": "Debugger ishlamaydi", "image": null, "is_correct": false },
+      { "D": "Python versiyasini o‘zgartiradi", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "Dataclass afzalligi nima?",
+    "image": null,
+    "options": [
+      { "A": "Kod sekin ishlaydi", "image": null, "is_correct": false },
+      { "B": "Avtomatik __init__, __repr__, __eq__ yaratadi", "image": null, "is_correct": true },
+      { "C": "Hashlashni bloklaydi", "image": null, "is_correct": false },
+      { "D": "JSON yaratadi", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "MRO nima qiladi?",
+    "image": null,
+    "options": [
+      { "A": "Atributlarni sanaydi", "image": null, "is_correct": false },
+      { "B": "Metodni topish tartibini belgilaydi", "image": null, "is_correct": true },
+      { "C": "File ochadi", "image": null, "is_correct": false },
+      { "D": "Memory boshqaradi", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "asyncio.sleep() nima?",
+    "image": null,
+    "options": [
+      { "A": "time.sleep() bilan bir xil", "image": null, "is_correct": false },
+      { "B": "time.sleep() ning async varianti", "image": null, "is_correct": true },
+      { "C": "Thread yaratadi", "image": null, "is_correct": false },
+      { "D": "Process yaratadi", "image": null, "is_correct": false }
+    ]
+  },
+
+  {
+    "question": "zip() nima qiladi?",
+    "image": null,
+    "options": [
+      { "A": "Ma'lumotni siqadi", "image": null, "is_correct": false },
+      { "B": "Bir nechta iterableni juftlab birlashtiradi", "image": null, "is_correct": true },
+      { "C": "Generator yaratadi", "image": null, "is_correct": false },
+      { "D": "Filtrlash", "image": null, "is_correct": false }
+    ]
+  }
+]

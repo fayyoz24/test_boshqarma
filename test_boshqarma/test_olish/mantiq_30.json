@@ -1,0 +1,292 @@
+[
+  {
+    "question": "Quyidagi ketma-ketlikda qaysi son yetishmayapti? 3, 6, 12, 24, ?",
+    "image": null,
+    "options": [
+      { "A": "36", "image": null, "is_correct": false },
+      { "B": "44", "image": null, "is_correct": false },
+      { "C": "48", "image": null, "is_correct": true },
+      { "D": "52", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Qaysi so‘z ortiqcha: olma, banan, mango, sabzi?",
+    "image": null,
+    "options": [
+      { "A": "olma", "image": null, "is_correct": false },
+      { "B": "banan", "image": null, "is_correct": false },
+      { "C": "mango", "image": null, "is_correct": false },
+      { "D": "sabzi", "image": null, "is_correct": true }
+    ]
+  },
+  {
+    "question": "Kubda nechta qirra mavjud?",
+    "image": null,
+    "options": [
+      { "A": "8", "image": null, "is_correct": false },
+      { "B": "10", "image": null, "is_correct": false },
+      { "C": "12", "image": null, "is_correct": true },
+      { "D": "6", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "A = 1, B = 2, C = 3 bo'lsa, F + C ning qiymati?",
+    "image": null,
+    "options": [
+      { "A": "5", "image": null, "is_correct": false },
+      { "B": "7", "image": null, "is_correct": false },
+      { "C": "9", "image": null, "is_correct": true },
+      { "D": "11", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Ketma-ketlikda qaysi son keyingi? 2, 5, 10, 17, 26, ?",
+    "image": null,
+    "options": [
+      { "A": "34", "image": null, "is_correct": false },
+      { "B": "37", "image": null, "is_correct": true },
+      { "C": "39", "image": null, "is_correct": false },
+      { "D": "41", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "1 kg temir va 1 kg paxtadan qaysi og‘ir?",
+    "image": null,
+    "options": [
+      { "A": "temir", "image": null, "is_correct": false },
+      { "B": "paxta", "image": null, "is_correct": false },
+      { "C": "ikkalasi teng", "image": null, "is_correct": true },
+      { "D": "aniqlab bo‘lmaydi", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Ortiqcha juftlikni toping: it – hayvon, gul – o‘simlik, stol – meva, olma – meva",
+    "image": null,
+    "options": [
+      { "A": "it – hayvon", "image": null, "is_correct": false },
+      { "B": "gul – o‘simlik", "image": null, "is_correct": false },
+      { "C": "stol – meva", "image": null, "is_correct": true },
+      { "D": "olma – meva", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Qaysi son mos emas? 4, 9, 16, 21, 25",
+    "image": null,
+    "options": [
+      { "A": "9", "image": null, "is_correct": false },
+      { "B": "21", "image": null, "is_correct": true },
+      { "C": "16", "image": null, "is_correct": false },
+      { "D": "25", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Qaysi fikr to‘g‘ri?",
+    "image": null,
+    "options": [
+      { "A": "Hamma to‘rtburchaklar kvadrat", "image": null, "is_correct": false },
+      { "B": "Hamma kvadratlar to‘rtburchak", "image": null, "is_correct": true },
+      { "C": "Ular bir xil figura", "image": null, "is_correct": false },
+      { "D": "Hech biri emas", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Ketma-ketlik: A, C, F, J, O, ?. Keyingi harf?",
+    "image": null,
+    "options": [
+      { "A": "P", "image": null, "is_correct": false },
+      { "B": "Q", "image": null, "is_correct": false },
+      { "C": "U", "image": null, "is_correct": true },
+      { "D": "X", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Ketma-ketlikda qaysi son yetishmaydi? 7, 14, 28, ?, 112",
+    "image": null,
+    "options": [
+      { "A": "40", "image": null, "is_correct": false },
+      { "B": "50", "image": null, "is_correct": false },
+      { "C": "56", "image": null, "is_correct": true },
+      { "D": "70", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Bugun chorshanba bo‘lsa, 10 kundan keyin qaysi kun bo‘ladi?",
+    "image": null,
+    "options": [
+      { "A": "juma", "image": null, "is_correct": false },
+      { "B": "shanba", "image": null, "is_correct": true },
+      { "C": "yakshanba", "image": null, "is_correct": false },
+      { "D": "dushanba", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Qaysi shakl eng ko‘p tomonga ega?",
+    "image": null,
+    "options": [
+      { "A": "pentagon", "image": null, "is_correct": false },
+      { "B": "hexagon", "image": null, "is_correct": false },
+      { "C": "octagon", "image": null, "is_correct": true },
+      { "D": "kvadrat", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Ketma-ketlik: 1, 4, 9, 16, ?. Keyingi son?",
+    "image": null,
+    "options": [
+      { "A": "20", "image": null, "is_correct": false },
+      { "B": "25", "image": null, "is_correct": true },
+      { "C": "30", "image": null, "is_correct": false },
+      { "D": "36", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Soat 3:15 da soat mili va minut mili orasidagi burchak?",
+    "image": null,
+    "options": [
+      { "A": "90°", "image": null, "is_correct": false },
+      { "B": "75°", "image": null, "is_correct": false },
+      { "C": "7.5°", "image": null, "is_correct": true },
+      { "D": "30°", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Hamma mushuklarda dum bo‘ladi. Tom — mushuk. Xulosa?",
+    "image": null,
+    "options": [
+      { "A": "Tomda dum bo‘lmasligi mumkin", "image": null, "is_correct": false },
+      { "B": "Tomda dum bor", "image": null, "is_correct": true },
+      { "C": "Tomda dum yo‘q", "image": null, "is_correct": false },
+      { "D": "Xulosa chiqarib bo‘lmaydi", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "5 → 25, 7 → 49, 3 → 9, 8 → ?",
+    "image": null,
+    "options": [
+      { "A": "56", "image": null, "is_correct": false },
+      { "B": "48", "image": null, "is_correct": false },
+      { "C": "64", "image": null, "is_correct": true },
+      { "D": "72", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Ortiqcha shaklni tanlang: uchburchak, aylana, kvadrat, to‘rtburchak",
+    "image": null,
+    "options": [
+      { "A": "uchburchak", "image": null, "is_correct": false },
+      { "B": "aylana", "image": null, "is_correct": true },
+      { "C": "kvadrat", "image": null, "is_correct": false },
+      { "D": "to‘rtburchak", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Ketma-ketlikda keyingi son? 11, 13, 17, 19, ?",
+    "image": null,
+    "options": [
+      { "A": "20", "image": null, "is_correct": false },
+      { "B": "23", "image": null, "is_correct": true },
+      { "C": "25", "image": null, "is_correct": false },
+      { "D": "21", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Agar 1 ta qalam 2000 so‘m bo‘lsa, 4 ta qalam qancha bo‘ladi?",
+    "image": null,
+    "options": [
+      { "A": "6000", "image": null, "is_correct": false },
+      { "B": "8000", "image": null, "is_correct": true },
+      { "C": "9000", "image": null, "is_correct": false },
+      { "D": "4000", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Qaysi son boshqa sonlardan farq qiladi? 15, 25, 35, 45, 55",
+    "image": null,
+    "options": [
+      { "A": "35", "image": null, "is_correct": false },
+      { "B": "45", "image": null, "is_correct": false },
+      { "C": "25", "image": null, "is_correct": true },
+      { "D": "55", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Ketma-ketlik: 100, 90, 80, 70, ?",
+    "image": null,
+    "options": [
+      { "A": "50", "image": null, "is_correct": false },
+      { "B": "60", "image": null, "is_correct": true },
+      { "C": "65", "image": null, "is_correct": false },
+      { "D": "55", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Bola ertalabdan kechgacha 8 km yursa va qaytishda 4 km qisqa yo‘lni tanlasa, qaytishda nech km yurgan bo‘ladi?",
+    "image": null,
+    "options": [
+      { "A": "8 km", "image": null, "is_correct": false },
+      { "B": "4 km", "image": null, "is_correct": true },
+      { "C": "6 km", "image": null, "is_correct": false },
+      { "D": "10 km", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Qaysi juftlik ma’noda to‘g‘ri kelmaydi? Qora – rang, oyoq – hayvon, ilon – hayvon, daraxt – o‘simlik",
+    "image": null,
+    "options": [
+      { "A": "Qora – rang", "image": null, "is_correct": false },
+      { "B": "Oyoq – hayvon", "image": null, "is_correct": true },
+      { "C": "Ilon – hayvon", "image": null, "is_correct": false },
+      { "D": "Daraxt – o‘simlik", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Ketma-ketlik: 1, 2, 4, 8, 16, ?. Keyingi son?",
+    "image": null,
+    "options": [
+      { "A": "20", "image": null, "is_correct": false },
+      { "B": "32", "image": null, "is_correct": true },
+      { "C": "28", "image": null, "is_correct": false },
+      { "D": "24", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Agar 6 odam bir-biriga qo‘l berib ko‘rsa, jami nechta qo‘l berish (juftlashgan) sodir bo‘ladi?",
+    "image": null,
+    "options": [
+      { "A": "12", "image": null, "is_correct": false },
+      { "B": "15", "image": null, "is_correct": true },
+      { "C": "18", "image": null, "is_correct": false },
+      { "D": "21", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Ortib qolgan so‘zni toping: kuz, yoz, bahor, tong",
+    "image": null,
+    "options": [
+      { "A": "kuz", "image": null, "is_correct": false },
+      { "B": "yoz", "image": null, "is_correct": false },
+      { "C": "bahor", "image": null, "is_correct": false },
+      { "D": "tong", "image": null, "is_correct": true }
+    ]
+  },
+  {
+    "question": "Agar tovuq 1 kunda 1 tuxum qo‘yadigan bo‘lsa, 5 ta tovuq 5 kunda nechta tuxum qo‘yadi?",
+    "image": null,
+    "options": [
+      { "A": "10", "image": null, "is_correct": false },
+      { "B": "15", "image": null, "is_correct": false },
+      { "C": "25", "image": null, "is_correct": true },
+      { "D": "30", "image": null, "is_correct": false }
+    ]
+  },
+  {
+    "question": "Ketma-ketlik: 9, 18, 27, 36, ?. Keyingi son?",
+    "image": null,
+    "options": [
+      { "A": "40", "image": null, "is_correct": false },
+      { "B": "45", "image": null, "is_correct": true },
+      { "C": "50", "image": null, "is_correct": false },
+      { "D": "54", "image": null, "is_correct": false }
+    ]
+  }
+]

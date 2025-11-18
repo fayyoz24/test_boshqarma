@@ -1,0 +1,322 @@
+[
+  {
+    "question": "Choose the correct form: If I ____ more time, I would learn French.",
+    "image": null,
+    "options": [
+      {"A": "have", "image": null, "is_correct": false},
+      {"B": "had", "image": null, "is_correct": true},
+      {"C": "will have", "image": null, "is_correct": false},
+      {"D": "would have", "image": null, "is_correct": false}
+    ]
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "image": null,
+    "options": [
+      {"A": "She don’t like coffee.", "image": null, "is_correct": false},
+      {"B": "She doesn’t likes coffee.", "image": null, "is_correct": false},
+      {"C": "She doesn’t like coffee.", "image": null, "is_correct": true},
+      {"D": "She don’t likes coffee.", "image": null, "is_correct": false}
+    ]
+  },
+  {
+    "question": "Choose the correct word: I am looking forward ____ you soon.",
+    "image": null,
+    "options": [
+      {"A": "see", "image": null, "is_correct": false},
+      {"B": "seeing", "image": null, "is_correct": true},
+      {"C": "to see", "image": null, "is_correct": false},
+      {"D": "to seeing", "image": null, "is_correct": false}
+    ]
+  },
+  {
+    "question": "What is the synonym of 'increase'?",
+    "image": null,
+    "options": [
+      {"A": "reduce", "image": null, "is_correct": false},
+      {"B": "decrease", "image": null, "is_correct": false},
+      {"C": "grow", "image": null, "is_correct": true},
+      {"D": "limit", "image": null, "is_correct": false}
+    ]
+  },
+  {
+    "question": "Choose the correct preposition: She is afraid ____ spiders.",
+    "image": null,
+    "options": [
+      {"A": "from", "image": null, "is_correct": false},
+      {"B": "of", "image": null, "is_correct": true},
+      {"C": "by", "image": null, "is_correct": false},
+      {"D": "with", "image": null, "is_correct": false}
+    ]
+  },
+  {
+    "question": "Which sentence is in the passive voice?",
+    "image": null,
+    "options": [
+      {"A": "They built a new school.", "image": null, "is_correct": false},
+      {"B": "A new school was built.", "image": null, "is_correct": true},
+      {"C": "They are building a new school.", "image": null, "is_correct": false},
+      {"D": "They have built a new school.", "image": null, "is_correct": false}
+    ]
+  },
+  {
+    "question": "Choose the correct option: I have lived in this city ____ 2010.",
+    "image": null,
+    "options": [
+      {"A": "for", "image": null, "is_correct": false},
+      {"B": "since", "image": null, "is_correct": true},
+      {"C": "from", "image": null, "is_correct": false},
+      {"D": "during", "image": null, "is_correct": false}
+    ]
+  },
+  {
+    "question": "Choose the correct form of the adjective: This is the ____ movie I have ever watched.",
+    "image": null,
+    "options": [
+      {"A": "more interesting", "image": null, "is_correct": false},
+      {"B": "most interesting", "image": null, "is_correct": true},
+      {"C": "interestinger", "image": null, "is_correct": false},
+      {"D": "interestingest", "image": null, "is_correct": false}
+    ]
+  },
+  {
+    "question": "Which word is a synonym of 'difficult'?",
+    "image": null,
+    "options": [
+      {"A": "hard", "image": null, "is_correct": true},
+      {"B": "easy", "image": null, "is_correct": false},
+      {"C": "simple", "image": null, "is_correct": false},
+      {"D": "soft", "image": null, "is_correct": false}
+    ]
+  },
+  {
+    "question": "Choose the correct form: She ____ to the gym every day.",
+    "image": null,
+    "options": [
+      {"A": "go", "image": null, "is_correct": false},
+      {"B": "goes", "image": null, "is_correct": true},
+      {"C": "is go", "image": null, "is_correct": false},
+      {"D": "going", "image": null, "is_correct": false}
+    ]
+  },
+
+  {
+    "question": "Choose the correct sentence:",
+    "image": null,
+    "options": [
+      {"A": "I didn’t went to school yesterday.", "image": null, "is_correct": false},
+      {"B": "I didn’t go to school yesterday.", "image": null, "is_correct": true},
+      {"C": "I don’t went to school yesterday.", "image": null, "is_correct": false},
+      {"D": "I haven’t went to school yesterday.", "image": null, "is_correct": false}
+    ]
+  },
+
+  {
+    "question": "Which word completes the sentence: The film was very ____. I enjoyed it.",
+    "image": null,
+    "options": [
+      {"A": "boring", "image": null, "is_correct": false},
+      {"B": "interested", "image": null, "is_correct": false},
+      {"C": "interesting", "image": null, "is_correct": true},
+      {"D": "interest", "image": null, "is_correct": false}
+    ]
+  },
+
+  {
+    "question": "Select the correct modal verb: You ____ stop when the light is red.",
+    "image": null,
+    "options": [
+      {"A": "might", "image": null, "is_correct": false},
+      {"B": "could", "image": null, "is_correct": false},
+      {"C": "must", "image": null, "is_correct": true},
+      {"D": "may", "image": null, "is_correct": false}
+    ]
+  },
+
+  {
+    "question": "Choose the correct form: I haven't seen him ____ last week.",
+    "image": null,
+    "options": [
+      {"A": "for", "image": null, "is_correct": false},
+      {"B": "since", "image": null, "is_correct": false},
+      {"C": "from", "image": null, "is_correct": false},
+      {"D": "since", "image": null, "is_correct": true}
+    ]
+  },
+
+  {
+    "question": "Which sentence expresses a future plan?",
+    "image": null,
+    "options": [
+      {"A": "I will go to London tomorrow.", "image": null, "is_correct": false},
+      {"B": "I am going to London tomorrow.", "image": null, "is_correct": true},
+      {"C": "I go to London tomorrow.", "image": null, "is_correct": false},
+      {"D": "I went to London tomorrow.", "image": null, "is_correct": false}
+    ]
+  },
+
+  {
+    "question": "Choose the correct article: He is ____ honest man.",
+    "image": null,
+    "options": [
+      {"A": "a", "image": null, "is_correct": false},
+      {"B": "an", "image": null, "is_correct": true},
+      {"C": "the", "image": null, "is_correct": false},
+      {"D": "no article", "image": null, "is_correct": false}
+    ]
+  },
+
+  {
+    "question": "What is the opposite of 'polite'?",
+    "image": null,
+    "options": [
+      {"A": "kind", "image": null, "is_correct": false},
+      {"B": "rude", "image": null, "is_correct": true},
+      {"C": "friendly", "image": null, "is_correct": false},
+      {"D": "quiet", "image": null, "is_correct": false}
+    ]
+  },
+
+  {
+    "question": "Choose the correct verb tense: They ____ dinner when I arrived.",
+    "image": null,
+    "options": [
+      {"A": "eat", "image": null, "is_correct": false},
+      {"B": "were eating", "image": null, "is_correct": true},
+      {"C": "have eaten", "image": null, "is_correct": false},
+      {"D": "are eating", "image": null, "is_correct": false}
+    ]
+  },
+
+  {
+    "question": "Choose the correct option: She is good ____ mathematics.",
+    "image": null,
+    "options": [
+      {"A": "in", "image": null, "is_correct": false},
+      {"B": "with", "image": null, "is_correct": false},
+      {"C": "at", "image": null, "is_correct": true},
+      {"D": "on", "image": null, "is_correct": false}
+    ]
+  },
+
+  {
+    "question": "Which sentence uses the comparative form correctly?",
+    "image": null,
+    "options": [
+      {"A": "This book is more interestinger.", "image": null, "is_correct": false},
+      {"B": "This book is more interesting.", "image": null, "is_correct": true},
+      {"C": "This book is interestinger.", "image": null, "is_correct": false},
+      {"D": "This book is the most interesting.", "image": null, "is_correct": false}
+    ]
+  },
+
+  {
+    "question": "Choose the correct word: She speaks English very ____.",
+    "image": null,
+    "options": [
+      {"A": "good", "image": null, "is_correct": false},
+      {"B": "well", "image": null, "is_correct": true},
+      {"C": "better", "image": null, "is_correct": false},
+      {"D": "best", "image": null, "is_correct": false}
+    ]
+  },
+
+  {
+    "question": "Which one is a countable noun?",
+    "image": null,
+    "options": [
+      {"A": "water", "image": null, "is_correct": false},
+      {"B": "advice", "image": null, "is_correct": false},
+      {"C": "information", "image": null, "is_correct": false},
+      {"D": "apple", "image": null, "is_correct": true}
+    ]
+  },
+
+  {
+    "question": "Choose the correct form: He said he ____ busy.",
+    "image": null,
+    "options": [
+      {"A": "is", "image": null, "is_correct": false},
+      {"B": "was", "image": null, "is_correct": true},
+      {"C": "were", "image": null, "is_correct": false},
+      {"D": "be", "image": null, "is_correct": false}
+    ]
+  },
+
+  {
+    "question": "Which sentence expresses a suggestion?",
+    "image": null,
+    "options": [
+      {"A": "You must go.", "image": null, "is_correct": false},
+      {"B": "You should go.", "image": null, "is_correct": true},
+      {"C": "You will go.", "image": null, "is_correct": false},
+      {"D": "You have to go.", "image": null, "is_correct": false}
+    ]
+  },
+
+  {
+    "question": "Choose the correct conditional: If it rains, we ____ at home.",
+    "image": null,
+    "options": [
+      {"A": "stay", "image": null, "is_correct": false},
+      {"B": "will stay", "image": null, "is_correct": true},
+      {"C": "would stay", "image": null, "is_correct": false},
+      {"D": "stayed", "image": null, "is_correct": false}
+    ]
+  },
+
+  {
+    "question": "Choose the correct form: This is the place ____ we met.",
+    "image": null,
+    "options": [
+      {"A": "who", "image": null, "is_correct": false},
+      {"B": "when", "image": null, "is_correct": false},
+      {"C": "where", "image": null, "is_correct": true},
+      {"D": "which", "image": null, "is_correct": false}
+    ]
+  },
+
+  {
+    "question": "Which sentence is correct?",
+    "image": null,
+    "options": [
+      {"A": "There is much people here.", "image": null, "is_correct": false},
+      {"B": "There are many people here.", "image": null, "is_correct": true},
+      {"C": "There are much people here.", "image": null, "is_correct": false},
+      {"D": "There is many people here.", "image": null, "is_correct": false}
+    ]
+  },
+
+  {
+    "question": "Choose the correct tense: I ____ my homework already.",
+    "image": null,
+    "options": [
+      {"A": "finish", "image": null, "is_correct": false},
+      {"B": "finished", "image": null, "is_correct": false},
+      {"C": "have finished", "image": null, "is_correct": true},
+      {"D": "had finished", "image": null, "is_correct": false}
+    ]
+  },
+
+  {
+    "question": "Which is the correct reported speech? “I am tired,” she said.",
+    "image": null,
+    "options": [
+      {"A": "She said she was tired.", "image": null, "is_correct": true},
+      {"B": "She said she is tired.", "image": null, "is_correct": false},
+      {"C": "She said she tired.", "image": null, "is_correct": false},
+      {"D": "She said that she tired.", "image": null, "is_correct": false}
+    ]
+  },
+
+  {
+    "question": "Choose the correct modal verb: He ____ speak four languages.",
+    "image": null,
+    "options": [
+      {"A": "can", "image": null, "is_correct": true},
+      {"B": "must", "image": null, "is_correct": false},
+      {"C": "should", "image": null, "is_correct": false},
+      {"D": "may", "image": null, "is_correct": false}
+    ]
+  }
+]

@@ -1,4 +1,4 @@
-[
+{"questions": [
   {
     "question": "Quyidagi ketma-ketlikda qaysi son yetishmayapti? 3, 6, 12, 24, ?",
     "image": null,
@@ -290,3 +290,4 @@
     ]
   }
 ]
+}

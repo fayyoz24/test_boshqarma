@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Subject, Class, School, Tuman, MonthSession
+from .models import Subject, Class, Mark, Theme, School, Tuman, MonthSession
 # Register your models here.
 # class JobTitleAdmin(admin.ModelAdmin):
 #     list_display=['job_title', 'sector']
@@ -12,4 +12,6 @@ admin.site.register(Tuman)
 admin.site.register(School)
 admin.site.register(Class)
 admin.site.register(Subject)
+admin.site.register(Theme)
+admin.site.register(Mark)
 admin.site.register(MonthSession)

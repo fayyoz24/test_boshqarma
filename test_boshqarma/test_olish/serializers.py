@@ -5,7 +5,7 @@ from rest_framework.views import APIView
 from rest_framework.response import Response
 from django.db.models import Count, F
 from django.shortcuts import get_object_or_404
-from corecode.models import Subject
+from corecode.models import Theme
 
 class QuestionCreateSerializer(serializers.ModelSerializer):
     class Meta:
@@ -17,11 +17,11 @@ class QuestionCreateSerializer(serializers.ModelSerializer):
         Custom create method to handle theme association
         """
         # Get theme from context
-        subject = self.context.get('subject')
+        theme = self.context.get('theme')
         
         # Create question with theme
-        if subject:
-            validated_data['subject'] = subject
+        if theme:
+            validated_data['theme'] = theme
         
         return super().create(validated_data)
 
@@ -46,15 +46,15 @@ class QuestionSerializer(serializers.ModelSerializer):
         return OptionSerializer(shuffled_options, many=True).data
 
 
-class SubjectQuestionTestSerializer(serializers.ModelSerializer):
+class ThemeQuestionTestSerializer(serializers.ModelSerializer):
     class Meta:
-        model = Subject
+        model = Theme
         fields = ['id', 'name', 'num_questions', 'timer']
 
 
 class TestSessionSerializer(serializers.ModelSerializer):
     questions = serializers.SerializerMethodField()
-    Subject = SubjectQuestionTestSerializer()
+    theme = ThemeQuestionTestSerializer()
 
     class Meta:
         model = TestSession
@@ -119,7 +119,13 @@ class AnswerSerializer(serializers.Serializer):
 class AnswersListSerializer(serializers.Serializer):
     answers = AnswerSerializer(many=True)
 
-class SubjectTestHistorySerializer(serializers.ModelSerializer):
+
+
+
+
+
+
+class ThemeTestHistorySerializer(serializers.ModelSerializer):
     passed = serializers.SerializerMethodField()
     total_questions = serializers.SerializerMethodField()
     correct_answers = serializers.SerializerMethodField()
@@ -128,7 +134,7 @@ class SubjectTestHistorySerializer(serializers.ModelSerializer):
     topics = serializers.SerializerMethodField()
 
     class Meta:
-        model = Subject
+        model = Theme
         fields = ['id', 'name', 'passed', 'total_questions', 'correct_answers', 'created_at', 'score', 'topics']
     
     def get_passed(self, obj):

@@ -5,9 +5,12 @@ from rest_framework.response import Response
 from .serializers import TestSessionSerializer, QuestionSerializer, OptionSerializer, QuestionCreateSerializer
 from .models import TestResult, TestSession, Subject, Question, Option, StudentAnswer
 from rest_framework.views import APIView
+from corecode.models import Theme
+from .serializers import ThemeTestHistorySerializer
 from django.shortcuts import get_object_or_404
 from .serializers import AnswersListSerializer
 import random
+from faker import Faker
 from rest_framework.views import APIView
 from rest_framework.response import Response
 
@@ -15,31 +18,70 @@ from corecode.models import Class
 from students.models import Student
 from users.models import User
 import string
+
+
+class QuestionCreateView(generics.CreateAPIView):
+    serializer_class = QuestionCreateSerializer
+    queryset = Question.objects.all()
+    permission_classes = [IsAuthenticated]
+
+    def create(self, request, subject_theme_id):
+        """
+        Custom create method to handle subject association
+        """
+        try:
+            # Retrieve the subject first
+            theme = Theme.objects.get(id=subject_theme_id)
+        except Theme.DoesNotExist:
+            return Response(
+                {"error": "Theme not found"}, 
+                status=404
+            )
+
+        # Create serializer with subject in context
+        serializer = self.get_serializer(
+            data=request.data, 
+            context={'theme': theme}
+        )
+        
+        # Validate and save
+        serializer.is_valid(raise_exception=True)
+        self.perform_create(serializer, theme)
+        
+        return Response(
+            serializer.data, 
+            status=201
+        )
+
+    def perform_create(self, serializer, theme):
+        """
+        Override perform_create to associate with theme
+        """
+        instance = serializer.save(theme=theme)
+        return instance
 from corecode.custom_permission import IsPaidUserPermissionForTheme
-
-
 class CreateTestSessionView(APIView):
     queryset = TestSession.objects.all()
     serializer_class = TestSessionSerializer
     permission_classes = [permissions.IsAuthenticated, IsPaidUserPermissionForTheme]
 
-    def get(self, request, subject_id):
+    def get(self, request, subject_theme_id):
         """
         Start a new test session for a given subject
         """
 
-        subject = Subject.objects.get(id=subject_id)
+        theme = Theme.objects.get(id=subject_theme_id)
         try:
             test_session = TestSession.objects.get(
                 user=self.request.user, 
-                subject_id=subject_id  # This ensures we check the specific theme
+                theme_id=subject_theme_id  # This ensures we check the specific theme
             )
             print("*"*30)
             print(test_session.is_completed)
             if test_session.is_completed:
-                return Response({"detail": "You had that test before!"}, status=200)
+                return Response({"detail": "You had that test before!"})
         except Exception as e:
-            test_session = TestSession.create_new_test_session(request.user, subject)
+            test_session = TestSession.create_new_test_session(request.user, theme)
         
         serializer = self.serializer_class(test_session)
         return Response(serializer.data)
@@ -64,7 +106,7 @@ class TestResultsView(APIView):
                 'message': 'You already completed this test',
                 'score': existing_test_result.total_score,
                 'passed': existing_test_result.passed,
-                "subject": test_session.subject.name,
+                "subject": test_session.theme.subject.name,
                 "total_questions": existing_test_result.total_questions,
                 "correct_answers": existing_test_result.correct_answers,
                 "incorrect_answers": existing_test_result.total_questions - existing_test_result.correct_answers
@@ -118,7 +160,7 @@ class TestResultsView(APIView):
             return Response({
                 'score': test_result.total_score,
                 'passed': test_result.passed,
-                "subject": test_session.subject.name,
+                "subject": test_session.theme.subject.name,
                 "total_questions": test_result.total_questions,
                 "correct_answers": test_result.correct_answers,
                 "incorrect_answers": test_result.total_questions - test_result.correct_answers
@@ -148,7 +190,7 @@ class SubjectTestHistoryView(APIView):
             'testsession_set__testresult',
             'testsession_set__testresult__student_answers'
         )
-        
+
         serializer = ThemeTestHistorySerializer(
             themes, 
             many=True,
@@ -161,6 +203,7 @@ class SubjectTestHistoryView(APIView):
             'themes': serializer.data
         })
 
+fake = Faker()
 
 class FakeQuestionOptionAPIView(APIView):
     def post(self, request, *args, **kwargs):
@@ -227,6 +270,10 @@ class FakeUserCreateView(APIView):
         #     print("n"*76)
 
         return Response ({"detail" :"users are created"}, status=200)
+
+
+
+
 
 from django.db.models import Avg, Count, Case, When, F
 from rest_framework.views import APIView

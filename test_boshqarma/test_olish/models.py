@@ -1,12 +1,11 @@
 from django.db import models
 from users.models import User
-from corecode.models import Subject, Class
+from corecode.models import Subject, Theme
 import random
 
 
 class Question(models.Model):
-    subject = models.ForeignKey(Subject, on_delete=models.CASCADE)
-    class_name = models.ForeignKey(Class, on_delete=models.CASCADE)
+    theme = models.ForeignKey(Theme, on_delete=models.CASCADE)
     title = models.TextField()
     image = models.ImageField(upload_to='images/questions', null=True, blank=True)
     created_at = models.DateTimeField(auto_now_add=True)
@@ -19,7 +18,7 @@ class Question(models.Model):
         random.shuffle(options)
         return options
     def __str__(self):
-        return self.class_name.name + ' - ' + self.subject.name + ' - ' + self.title[:50]
+        return self.theme.name + ' - ' + self.title[:50]
     
 class Option(models.Model):
     question = models.ForeignKey(Question, on_delete=models.CASCADE)
@@ -35,7 +34,7 @@ class TestSession(models.Model):
     """
     Represents a unique test session for a user
     """
-    subject = models.ForeignKey(Subject, on_delete=models.CASCADE)
+    theme = models.ForeignKey(Theme, on_delete=models.CASCADE)
     user = models.ForeignKey(User, on_delete=models.CASCADE)
     created_at = models.DateTimeField(auto_now_add=True)
     is_completed = models.BooleanField(default=False)
@@ -44,27 +43,27 @@ class TestSession(models.Model):
     selected_question_ids = models.JSONField()
 
     @classmethod
-    def create_new_test_session(cls, user, subject):
+    def create_new_test_session(cls, user, theme):
         """
         Create a new test session with random questions
         """
         # Select random question IDs
-        question_ids = list(subject.question_set.values_list('id', flat=True))
+        question_ids = list(theme.question_set.values_list('id', flat=True))
         random.shuffle(question_ids)
-        num_questions = subject.num_questions  # Use the subject parameter, not cls.subject
+        num_questions = theme.num_questions  # Use the theme parameter, not cls.theme
         selected_ids = question_ids[:num_questions]
 
         # Create test session
         test_session = cls.objects.create(
             user=user,
-            subject=subject,
+            theme=theme,
             selected_question_ids=selected_ids,
             is_completed=False
         )
         return test_session
 
     def __str__(self):
-        return self.user.student.first_name + ' - ' + self.subject.name
+        return self.user.student.first_name + ' - ' + self.theme.name
 
 class TestResult(models.Model):
     """Stores the test results for each test session"""

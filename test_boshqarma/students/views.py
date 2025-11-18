@@ -3,23 +3,41 @@ from rest_framework import generics
 from rest_framework.permissions import IsAuthenticated
 from .models import Student
 from .serializers import SubjectSerializer, StudentClassSerializer
-from corecode.models import Class
+from corecode.models import Mark, Class
 from rest_framework.views import APIView
+
+# class StudentSubjectMarksView(generics.ListAPIView):
+#     serializer_class = MarkSerializer
+#     permission_classes = [IsAuthenticated]
+    
+#     def get_queryset(self):
+#         # Get the subject_id from URL kwargs
+#         subject_id = self.kwargs['subject_id']
+        
+#         # Get the student associated with the logged-in user
+#         student = get_object_or_404(Student, user=self.request.user)
+        
+#         return Mark.objects.filter(
+#             student=student,
+#             subject_id=subject_id
+#         ).select_related(
+#             'subject',
+#             'teacher',
+#             'class_instance'
+#         ).order_by('-marked_at')
+    
+class StudentClassSubjectView(generics.RetrieveAPIView):
+    permission_classes=[IsAuthenticated]
+    serializer_class = StudentClassSerializer
+
+    def get_object(self):
+        student = get_object_or_404(Student, user=self.request.user)
+        print(student.id)
+        print(f"class {student.current_class}")
+        return Class.objects.get(id = student.current_class.id)
+    
+# second version
 from .serializers import StudentDetailSerilizer, StudentSubjectSerializer, StudentClassSerializer, TestHistorySerializer
-from rest_framework.views import APIView
-from rest_framework.response import Response
-from rest_framework import status
-from django.shortcuts import get_object_or_404
-from test_olish.models import TestSession
-from corecode.models import Subject
-from users.models import User
-from users.utils import username_generator
-from django.shortcuts import get_object_or_404
-from corecode.models import School
-import pandas as pd
-import json
-
-
 class StudentDetailView(generics.RetrieveAPIView):
     permission_classes=[IsAuthenticated]
     serializer_class = StudentDetailSerilizer
@@ -27,6 +45,15 @@ class StudentDetailView(generics.RetrieveAPIView):
     def get_object(self):
         student = get_object_or_404(Student, user=self.request.user)
         return student
+
+from rest_framework.views import APIView
+from rest_framework.response import Response
+from rest_framework import status
+from django.shortcuts import get_object_or_404
+from test_olish.models import TestSession
+from corecode.models import Subject
+import json
+from corecode.models import UserSessionAccess
 
 class StudentTestHistoryView(APIView):
     def get(self, request, subject_id):
@@ -43,10 +70,14 @@ class StudentTestHistoryView(APIView):
         
         # Serialize the data
         serializer = TestHistorySerializer(test_sessions, many=True)
-        return Response(serializer.data, status=200)
+        return Response(serializer.data)
 
+from users.models import User
+from users.utils import username_generator
+from django.shortcuts import get_object_or_404
+from corecode.models import School
+import pandas as pd
 
-from myclick.models import UserSessionAccess
 class AddStudentsByList(APIView):
     def get(self, request, school_id):
         # df = pd.read_excel("/home/itclastertest/IT_KLASTER/klaster/students/8-sinf.xlsx")

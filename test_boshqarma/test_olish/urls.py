@@ -1,11 +1,12 @@
 from .views import (CreateTestSessionView, TestResultsView,  
-                     FakeQuestionOptionAPIView,
+                    QuestionCreateView, FakeQuestionOptionAPIView,
                     DeleteTestSessionView, FakeUserCreateView,
                     SubjectTestHistoryView, ResultsByClassSubjectThemes,
                     ThemeStudentResultsView, SchoolSubjectAveragesView)
 from .view_test import AddTest
 from django.urls import path
 urlpatterns = [
+    path('question-create/<int:subject_theme_id>', QuestionCreateView.as_view(), name='question-create'),
     path('create-test_session/<int:subject_theme_id>', CreateTestSessionView.as_view(), name='teacher-marking'),
     path('test-results/<int:test_session_id>', TestResultsView.as_view(), name='teacher-marks-get'),
     path('fake-question-option', FakeQuestionOptionAPIView.as_view(), name='fake-question-option'),

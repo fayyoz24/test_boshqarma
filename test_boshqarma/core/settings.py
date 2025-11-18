@@ -51,6 +51,7 @@ INSTALLED_APPS = [
     'students',
     'test_olish',
     'myclick',
+    'staffs'
 ]
 
 REST_FRAMEWORK = {

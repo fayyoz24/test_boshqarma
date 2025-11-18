@@ -28,7 +28,7 @@ class Option(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):
-        return self.question.title[:50] + ' - ' + self.is_correct + ' - ' + self.title[:50]
+        return self.question.title[:10] + ' - ' + str(self.is_correct) + ' - ' + self.title[:10]
 
 class TestSession(models.Model):
     """

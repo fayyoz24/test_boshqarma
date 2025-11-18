@@ -53,7 +53,7 @@ from django.shortcuts import get_object_or_404
 from test_olish.models import TestSession
 from corecode.models import Subject
 import json
-from corecode.models import UserSessionAccess
+from myclick.models import UserSessionAccess
 
 class StudentTestHistoryView(APIView):
     def get(self, request, subject_id):

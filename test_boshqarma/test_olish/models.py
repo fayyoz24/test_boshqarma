@@ -90,9 +90,15 @@ class TestResult(models.Model):
         self.passed = self.total_score >= 50  # Passing threshold
         self.save()
 
+    def __str__(self):
+        return f"Result for {self.test_session.user.student.first_name} - Score: {self.total_score}"
+
 class StudentAnswer(models.Model):
     """Stores individual student answers for a test session"""
     test_result = models.ForeignKey(TestResult, on_delete=models.CASCADE, related_name='student_answers')
     question = models.ForeignKey(Question, on_delete=models.CASCADE)
     selected_option = models.ForeignKey(Option, on_delete=models.CASCADE, null=True, blank=True)
     is_correct = models.BooleanField()
+
+    def __str__(self):
+        return f"Answer for {self.question.title[:20]} - Correct: {str(self.is_correct)}"

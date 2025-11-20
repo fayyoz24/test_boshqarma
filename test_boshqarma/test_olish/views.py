@@ -76,15 +76,15 @@ class CreateTestSessionView(APIView):
                 user=self.request.user, 
                 theme_id=subject_theme_id  # This ensures we check the specific theme
             )
-            print("*"*30)
-            print(test_session.is_completed)
+            # print("*"*30)
+            # print(test_session.is_completed)
             if test_session.is_completed:
                 return Response({"detail": "You had that test before!"})
         except Exception as e:
             test_session = TestSession.create_new_test_session(request.user, theme)
         
         serializer = self.serializer_class(test_session)
-        return Response(serializer.data)
+        return Response(serializer.data, status=200)
     
 
 class TestResultsView(APIView):
@@ -92,16 +92,16 @@ class TestResultsView(APIView):
     def post(self, request, test_session_id):
         test_session = TestSession.objects.get(id=test_session_id)
         student_answers = AnswersListSerializer(data=request.data)
-        print("test_session"*30)
+        # print("test_session"*30)
    # Check if test result already exists
         existing_test_result = TestResult.objects.filter(
             test_session=test_session, 
             test_session__user=request.user,
             test_session__is_completed=True
         ).first()
-        print("test"*30)
+        # print("test"*30)
         if existing_test_result:
-            print("tesssssssst"*30)
+            # print("tesssssssst"*30)
             return Response({
                 'message': 'You already completed this test',
                 'score': existing_test_result.total_score,

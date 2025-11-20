@@ -138,7 +138,7 @@
     "image": null,
     "options": [
       {"A": "for", "image": null, "is_correct": false},
-      {"B": "since", "image": null, "is_correct": false},
+      {"B": "till", "image": null, "is_correct": false},
       {"C": "from", "image": null, "is_correct": false},
       {"D": "since", "image": null, "is_correct": true}
     ]

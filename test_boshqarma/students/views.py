@@ -108,3 +108,4 @@ class AddStudentsByList(APIView):
             json.dump(data, f, indent=4)
 
         return Response({"detail":"detail"}, status=200)
+        

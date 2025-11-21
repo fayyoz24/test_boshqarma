@@ -2,8 +2,9 @@ from .views import (CreateTestSessionView, TestResultsView,
                     QuestionCreateView, FakeQuestionOptionAPIView,
                     DeleteTestSessionView, FakeUserCreateView,
                     SubjectTestHistoryView, ResultsByClassSubjectThemes,
-                    ThemeStudentResultsView, SchoolSubjectAveragesView)
-from .view_test import AddTest
+                    ThemeStudentResultsView, SchoolSubjectAveragesView,
+                    )
+from .view_test import AddTest, export_all_results
 from django.urls import path
 urlpatterns = [
     path('question-create/<int:subject_theme_id>', QuestionCreateView.as_view(), name='question-create'),
@@ -17,8 +18,7 @@ urlpatterns = [
     path('school-subject-average', SchoolSubjectAveragesView.as_view(), name='school-subject-average'),
     path('fake-users', FakeUserCreateView.as_view(), name='fake-users'),
     
-    
+    # viewtest.py paths
     path('add-test/<int:theme_id>/', AddTest.as_view(), name='add-test'),
-
-
+    path('export-all-results/', export_all_results, name='export-all-results'),
 ]

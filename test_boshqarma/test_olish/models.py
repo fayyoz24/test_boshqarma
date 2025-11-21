@@ -63,7 +63,11 @@ class TestSession(models.Model):
         return test_session
 
     def __str__(self):
-        return self.user.student.first_name + ' - ' + self.theme.name
+        try:
+            str_text = self.user.student.first_name + ' - ' + self.theme.name
+        except Exception as e:
+            str_text = self.user.username + ' - ' + self.theme.name
+        return str_text
 
 class TestResult(models.Model):
     """Stores the test results for each test session"""

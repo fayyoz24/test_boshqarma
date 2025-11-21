@@ -91,7 +91,11 @@ class TestResult(models.Model):
         self.save()
 
     def __str__(self):
-        return f"Result for {self.test_session.user.student.first_name} - Score: {self.total_score}"
+        user = self.test_session.user
+        student = getattr(user, "student", None)
+        name = student.first_name if student else user.username
+        return f"Result for {name} - Score: {self.total_score}"
+
 
 class StudentAnswer(models.Model):
     """Stores individual student answers for a test session"""
